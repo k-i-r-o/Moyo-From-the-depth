@@ -101,8 +101,8 @@
 
   <!-- 어린 광부 -->
 
-  <Moyo_YoungMiner.title>moyo young miner</Moyo_YoungMiner.title>
-  <Moyo_YoungMiner.titleShort>young miner</Moyo_YoungMiner.titleShort>
+  <Moyo_YoungMiner.title>молодой шахтер мойо</Moyo_YoungMiner.title>
+  <Moyo_YoungMiner.titleShort>молодой шахтер</Moyo_YoungMiner.titleShort>
   <Moyo_YoungMiner.baseDesc>[PAWN_nameDef] стала шахтером, чтобы заработать деньги для семьи [PAWN_possessive]. Мечты и устремления [PAWN_nameDef] ничего не значили для шахтера. Единственное, что имело значение, - это привозить больше руды для маяка.</Moyo_YoungMiner.baseDesc>
 
 
