@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- blueburst -->
+
+  <BlueBurst.label>Взрыв-синевы</BlueBurst.label>
+  <BlueBurst.description>Это лекарство, которое перегружает сердечно-сосудистую систему Мойо. Он работает только против Мойо, а другие расы страдают только от отравления Глубокой Синевы. Благодаря этому эффекту вы можете получить больше крови, но это создает большую нагрузку на сердце и в конечном итоге приводит к разрыву сердца.\n\n* Будьте осторожны при использовании *</BlueBurst.description>
+  <BlueBurst.ingestible.ingestCommandString>{0} Ввести</BlueBurst.ingestible.ingestCommandString>
+  <BlueBurst.ingestible.ingestReportString>{0} Вводится.</BlueBurst.ingestible.ingestReportString>
+
+
+  <!-- BlueMed -->
+
+  <BlueMed.label>Синий-регенератор</BlueMed.label>
+  <BlueMed.description>Лекарственное средство, замедляющее кровотечение и способствующее заживлению ран. Работает на каждой гонке. Это связано с ценой зависимости от Глубокой Синевы и значительным повышением его устойчивости.\N\nЗаконченная форма синего взрыва, достигающая намеченного эффекта исцеления без разрушения чьего-либо сердца..</BlueMed.description>
+  <BlueMed.ingestible.ingestCommandString>{0} Ввести</BlueMed.ingestible.ingestCommandString>
+  <BlueMed.ingestible.ingestReportString>{0} Вводится.</BlueMed.ingestible.ingestReportString>
+
+
+  <!-- penoxy-blue -->
+
+  <PenoxyBlue.label>Синий-пеноксицилин</PenoxyBlue.label>
+  <PenoxyBlue.description>Пеноксицилин, модифицированный Глубокой синевой, который действует как антибиотик. Малярия, болезнь сна и черная смерть предотвращаются / лечатся один раз. Пользователь имеет сильную зависимость и стойкую терпимость к Глубокой синеве..</PenoxyBlue.description>
+  <PenoxyBlue.ingestible.ingestCommandString>{0} Ввести</PenoxyBlue.ingestible.ingestCommandString>
+  <PenoxyBlue.ingestible.ingestReportString>{0} Вводится.</PenoxyBlue.ingestible.ingestReportString>
+
+
+  <!-- clens-azure -->
+
+  <Clensazure.label>Ясная-Лазурь</Clensazure.label>
+  <Clensazure.description>пеноксицилин, модифицированный темно-синим, действует как репеллент. Он предотвращает/лечит висцеральных паразитов и паразитов один раз. У пользователя развивается зависимость и сильная терпимость к Глубокой синеве.</Clensazure.description>
+  <Clensazure.ingestible.ingestCommandString>{0} Ввести</Clensazure.ingestible.ingestCommandString>
+  <Clensazure.ingestible.ingestReportString>{0} Вводится.</Clensazure.ingestible.ingestReportString>
+
+
+  <!-- 서스테이너 라피스 -->
+
+  <SustainerLapis.label>Инжектор-поддержки</SustainerLapis.label>
+  <SustainerLapis.description>Это препарат, позволяющий вести длительную борьбу. Сильный эффект возбуждения не дает почувствовать потребность в отдыхе и приеме пищи в течение короткого периода времени, а после окончания эффекта требуется период восстановления. У пользователя развивается зависимость и сильная терпимость к Глубокой Синеве. (П.П. Оригинальное название, можно перевести как слой поддержки, по этому извините за лёгкий литературный)</SustainerLapis.description>
+  <SustainerLapis.ingestible.ingestCommandString>Inject {0}</SustainerLapis.ingestible.ingestCommandString>
+  <SustainerLapis.ingestible.ingestReportString>Injecting {0}.</SustainerLapis.ingestible.ingestReportString>
+
+
+  <!-- 디톡서 코발트 -->
+
+  <DetoxerCobalt.label>Детоксикатор</DetoxerCobalt.label>
+  <DetoxerCobalt.description>Это лекарство, которое выводит токсины из организма и предотвращает дальнейшее отравление. За счет ускоренной детоксикации пользователь быстрее устает. У пользователя развивается зависимость и сильная терпимость к Глубокой синеве.</DetoxerCobalt.description>
+  <DetoxerCobalt.ingestible.ingestCommandString>Inject {0}</DetoxerCobalt.ingestible.ingestCommandString>
+  <DetoxerCobalt.ingestible.ingestReportString>Injecting {0}.</DetoxerCobalt.ingestible.ingestReportString>
+
+
+</LanguageData>

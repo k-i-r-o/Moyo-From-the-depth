@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DeepblueStat.label>Deeplbue production amount</DeepblueStat.label>
+  <DeepblueStat.description>How much deepblue this pawn provides.</DeepblueStat.description>
+
+  <DeepblueStatSpeed.label>Deeplbue production speed</DeepblueStatSpeed.label>
+  <DeepblueStatSpeed.description>How fast this pawn provides deepblue.</DeepblueStatSpeed.description>
+
+
+</LanguageData>

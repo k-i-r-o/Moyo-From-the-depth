@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- morphi-blue high -->
+
+  <BlueGoHigh.label>Интоксикация Синим Морфи</BlueGoHigh.label>
+  <BlueGoHigh.description>Го-сок, насыщенный темно-синим цветом, проходит по кровотоку, улучшая боевые способности. Этот эффект не суммируется с Go-соком.</BlueGoHigh.description>
+  <BlueGoHigh.labelNoun>Интоксикация Синим Морфи</BlueGoHigh.labelNoun>
+
+
+  <!-- sapphire meth high -->
+
+  <BlueUpHigh.label>Интоксикация сапфировым Метом</BlueUpHigh.label>
+  <BlueUpHigh.description>Пробуждение с насыщенным синим цветом проходит по кровотоку, повышая эффективность работы. Этот эффект не суммируется с Пробуждением.</BlueUpHigh.description>
+  <BlueUpHigh.labelNoun>Интоксикация сапфировым Метом</BlueUpHigh.labelNoun>
+
+
+  <!-- BlueYo high -->
+
+  <BlueYoHigh.label>Интоксикация Синей Дымкой</BlueYoHigh.label>
+  <BlueYoHigh.description>Психин в смеси с Глубокой Синевой течет по кровеносным сосудам, заставляя пользователей чувствовать себя счастливыми. Не накладывается на йойо и хлопья.</BlueYoHigh.description>
+  <BlueYoHigh.labelNoun>Интоксикация Синей Дымкой</BlueYoHigh.labelNoun>
+
+
+</LanguageData>

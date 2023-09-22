@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--<MoyoProduction.label>Инженерия Технологий Бездны</MoyoProduction.label>-->
+  <!--<MoyoProduction.description>Изучите инженерное дело маяков, чтобы получить подсказки для сборки их оборудования..</MoyoProduction.description>-->
+
+  <!--<MoyoChargedBolt.label>заряженный снаряд</MoyoChargedBolt.label>-->
+  <!--<MoyoChargedBolt.description>Вы можете создавать электромагнитное оружие в новой интерпретации Мойоса. Это система оружия, в которой используются болты для минимизации рассеивания энергии. Поскольку лежащая в основе технология исследована, она не требует больших вложений.</MoyoChargedBolt.description>-->
+
+  <!--<MoyoCryoBlaster.label>Крио-Бластер</MoyoCryoBlaster.label>-->
+  <!--<MoyoCryoBlaster.description>Вы можете использовать струи холодного воздуха для сдерживания толпы. Запущенный хладагент быстро замерзает, вызывая обморожение кожи врага.</MoyoCryoBlaster.description>-->
+
+  <!--<DeepSeaProtection.label>костюм для глубоководного дайвинга</DeepSeaProtection.label>-->
+  <!--<DeepSeaProtection.description>Вы можете создать гидрокостюм, который использовал Мойо. Гидрокостюмы, которые начали использовать в качестве брони из-за гражданской войны, пришлось претерпеть множество модификаций, таких как отрезание хвоста для использования на земле.</DeepSeaProtection.description>-->
+
+  <!--<DeepBlue_Research.label>Добыча Глубокой Синевы</DeepBlue_Research.label>-->
+  <!--<DeepBlue_Research.description>Мы изучаем, как производить различные препараты, используя Глубокую синеву.</DeepBlue_Research.description>-->
+
+  <!--<DeepBlue_MedResearch.label>Медицина Глубокой синевы</DeepBlue_MedResearch.label>-->
+  <!--<DeepBlue_MedResearch.description>Методы исследования использования Глубокой Синевы в медицинских целях.</DeepBlue_MedResearch.description>-->
+
+  <!--<DBS_Research.label>Синтез Глубокой синевы</DBS_Research.label>-->
+  <!--<DBS_Research.description>Мы изучаем способы непрерывной подачи Глубокой синевы. Дублирование самой Глубокой Синевы неразумно, поэтому я думаю, что мне следует использовать немного другой метод.</DBS_Research.description>-->
+
+  <!--<DeepBlue_Manipulation.label>Операции при момощи Глубокой Синевы</DeepBlue_Manipulation.label>-->
+  <!--<DeepBlue_Manipulation.description>Благодаря глубокому пониманию биотехнологии и машиностроения, Глубокой Синевой можно манипулировать для создания предметов с огромными эффектами.</DeepBlue_Manipulation.description>-->
+
+</LanguageData>

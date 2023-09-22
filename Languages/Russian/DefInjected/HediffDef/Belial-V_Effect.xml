@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 벨리알-속도 -->
+
+  <BelialVEffect_2.label>Белиал-ловкость</BelialVEffect_2.label>
+  <BelialVEffect_2.description>Это укрепляющий эффект Белиала-V. Этот эффект дает цели быстрое движение. Это «дьявольская услуга» взамен зависимости от Глубокой Синевы.</BelialVEffect_2.description>
+
+  <BelialVEffect_2U.label>Белиал-скорость</BelialVEffect_2U.label>
+  <BelialVEffect_2U.description>Это укрепляющий эффект Белиала-V. Этот эффект дает цели быстрое движение. Это «дьявольская услуга» взамен зависимости от Глубокой Синевы</BelialVEffect_2U.description>
+
+
+  <!-- 벨리알-감각 -->
+
+  <BelialVEffect_3.label>Белиал-смысл</BelialVEffect_3.label>
+  <BelialVEffect_3.description>Это укрепляющий эффект Белиала-V. Этот эффект дает цели быстрое движение. Это «дьявольская услуга» взамен зависимости от Глубокой Синевы</BelialVEffect_3.description>
+
+  <BelialVEffect_3U.label>Белиал-супер чувства</BelialVEffect_3U.label>
+  <BelialVEffect_3U.description>Это укрепляющий эффект Белиала-V. Этот эффект дает цели быстрое движение. Это «дьявольская услуга» взамен зависимости от Глубокой Синевы</BelialVEffect_3U.description>
+
+
+  <!-- 벨리알-인내 -->
+
+  <BelialVEffect_4.label>Белиал-терпение</BelialVEffect_4.label>
+  <BelialVEffect_4.description>Это укрепляющий эффект Белиала-V. Этот эффект дает цели быстрое движение. Это «дьявольская услуга» взамен зависимости от Глубокой Синевы</BelialVEffect_4.description>
+
+  <BelialVEffect_4U.label>Белиал-Сила</BelialVEffect_4U.label>
+  <BelialVEffect_4U.description>Это укрепляющий эффект Белиала-V. Этот эффект дает цели быстрое движение. Это «дьявольская услуга» взамен зависимости от Глубокой Синевы</BelialVEffect_4U.description>
+
+
+  <!-- 벨리알-감정 -->
+
+  <BelialVEffect_5.label>Белиал-спокойствие</BelialVEffect_5.label>
+  <BelialVEffect_5.description>Это укрепляющий эффект Белиала-V. Этот эффект дает цели быстрое движение. Это «дьявольская услуга» взамен зависимости от Глубокой Синевы</BelialVEffect_5.description>
+
+  <BelialVEffect_6.label>Белиал-радость</BelialVEffect_6.label>
+  <BelialVEffect_6.description>Это укрепляющий эффект Белиала-V. Этот эффект дает цели быстрое движение. Это «дьявольская услуга» взамен зависимости от Глубокой Синевы</BelialVEffect_6.description>
+
+
+  <!-- 벨리알-집중 -->
+
+  <BelialVEffect_7.label>Белиал-Супер Фокус</BelialVEffect_7.label>
+  <BelialVEffect_7.description>Это укрепляющий эффект Белиала-V. Этот эффект дает цели сильный фокус. Это «дьявольская услуга» взамен Глубокой Синевы.</BelialVEffect_7.description>
+
+  <BelialVEffect_7U.label>Belial-Hyperfocus</BelialVEffect_7U.label>
+  <BelialVEffect_7U.description>Belial-V's empowering effect. This effect grants an impermeable focus. A 'demon's great favour', pleased by your tribute of deepblue.</BelialVEffect_7U.description>
+
+
+</LanguageData>

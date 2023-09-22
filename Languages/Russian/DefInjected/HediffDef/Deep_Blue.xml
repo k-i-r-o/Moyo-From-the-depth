@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- moyo defult hediff -->
+
+  <MoyoBaseHediff.label>Врождённое отличие Мойо</MoyoBaseHediff.label>
+  <MoyoBaseHediff.description>Эта поселенец Мойно, и на наё не действует Глубокая Синева.</MoyoBaseHediff.description>
+
+
+  <!-- 혈액팩 & 혈청 -->
+
+  <DeepBlues.label>Глубокая Синева</DeepBlues.label>
+  <DeepBlues.description>увеличивает возможности поселенца. как побочный эффект, пользователь будет чувствовать себя немного посиневшим. Поскольку не существует известных способов отменить модификацию, вызванную Глубокой Синевой, этот эффект нельзя отменить.</DeepBlues.description>
+
+
+  <!-- DeepBlueddiction -->
+
+  <DeepBlueTolerance.label>Толерантность к Глубокой Синеве</DeepBlueTolerance.label>
+  <DeepBlueTolerance.description>Клетки, преобразованные в Глубокая Синева, со временем становятся все более нечувствительными к Глубокой Синеве. потребуется больше Глубокой Синевы, чтобы удовлетворить потребности организма.</DeepBlueTolerance.description>
+
+  <DeepBlueAddiction.label>Зависимость от Глубокой Синевы</DeepBlueAddiction.label>
+  <DeepBlueAddiction.description>Тело, преобразованное Глубокой Синевой, постоянно поглощает её из тела, чтобы поддерживать свою функцию. Модифицированные клетки, использующие Глубокую Синеву как часть своего метаболизма, они перейдут в спячку, если недостаточно темно-синего.</DeepBlueAddiction.description>
+  <DeepBlueAddiction.comps.0.discoverLetterLabel>Deepblue dependent</DeepBlueAddiction.comps.0.discoverLetterLabel>
+  <DeepBlueAddiction.comps.0.discoverLetterText>{0} has developed a dependency to deepblue.\n\n[PAWN_pronoun] now has a need for deepblue, visible on [PAWN_pronoun] Needs tab. [PAWN_pronoun] will automatically consume the drug to fulfil [PAWN_pronoun] need. If [PAWN_pronoun] cannot get any deepblue, [PAWN_pronoun] will go into hibernation.</DeepBlueAddiction.comps.0.discoverLetterText>
+  <DeepBlueAddiction.stages.1.label>Гибернация</DeepBlueAddiction.stages.1.label>
+
+  <Deepblue_Filter.label>Deepblue_Filter</Deepblue_Filter.label>
+  <Deepblue_Filter.description>This pawn is a Moyo, and will not be affected by deepblue. You should not be reading this.</Deepblue_Filter.description>
+
+
+  <!-- 딥블루 거부감 -->
+
+  <Moyo_DeepBlueReaction.label>Отказ от Глубокой Синевы</Moyo_DeepBlueReaction.label>
+  <Moyo_DeepBlueReaction.description>Слишком много Глубокой Синевы введено в тело Мойо. это не имеет последствий для здоровья, но поселенец будет страдать от тошноты.</Moyo_DeepBlueReaction.description>
+  <Moyo_DeepBlueReaction.stages.0.label>начальный</Moyo_DeepBlueReaction.stages.0.label>
+  <Moyo_DeepBlueReaction.stages.1.label>незначительный</Moyo_DeepBlueReaction.stages.1.label>
+  <Moyo_DeepBlueReaction.stages.2.label>серьёзный</Moyo_DeepBlueReaction.stages.2.label>
+  <Moyo_DeepBlueReaction.stages.3.label>Экстремальный</Moyo_DeepBlueReaction.stages.3.label>
+
+
+  <!-- AbyssSerum -->
+  <!-- MoyoDeepBlueReaction -->
+
+</LanguageData>

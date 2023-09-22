@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- moyo med -->
+
+  <MoyoMedicine.label>Синий Мед</MoyoMedicine.label>
+  <MoyoMedicine.description>Лекарство, содержащее Глубокую Синеву. Глубокая Синева увеличивает эффективность лекарства, не беспокоясь о зависимости от неё.</MoyoMedicine.description>
+
+
+  <!-- morphi-blue -->
+
+  <BlueGo.label>Синий-морфи</BlueGo.label>
+  <BlueGo.description>Коктейль из синего и Go-сока. При использовании вызывает привыкание к Глубокой Синеве и дает эффект Go-сока. Это быстрее в использовании, а эффект длится немного дольше. \n\nКоктейль Глубокой синевы не имеет опасностей, связанных с передозировкой употребляемых наркотиков, а также удовлетворяет связанные потребности.</BlueGo.description>
+  <BlueGo.ingestible.ingestCommandString>Ввести {0}</BlueGo.ingestible.ingestCommandString>
+  <BlueGo.ingestible.ingestReportString>Вводится {0}.</BlueGo.ingestible.ingestReportString>
+
+
+  <!-- sapphire meth -->
+
+  <BlueUp.label>Сапфировый мет</BlueUp.label>
+  <BlueUp.description>Коктейль из синего и Go-сока. При использовании вызывает привыкание к Глубокой Синеве и обеспечивает эффект пробуждения. Быстрее в использовании, а эффект длится немного дольше. \n\nКоктейль Глубокой синевы не несет опасности передозировки употребляемых наркотиков, а также удовлетворяет связанные с этим потребности.</BlueUp.description>
+  <BlueUp.ingestible.ingestCommandString>Ввести {0}</BlueUp.ingestible.ingestCommandString>
+  <BlueUp.ingestible.ingestReportString>Вводится{0}.</BlueUp.ingestible.ingestReportString>
+
+
+  <!-- BlueYo -->
+
+  <BlueYo.label>Синяя Мгла</BlueYo.label>
+  <BlueYo.description>Коктейль из синего и порошка психина. При использовании вызывает зависимость от глубокой синевы и дает эффект психита. Его можно использовать быстрее, а эффект длится немного дольше.\n\nКоктейль Глубокой Синевы не имеет опасностей, связанных с передозировкой употребляемых наркотиков, а также удовлетворяет связанные потребности. </BlueYo.description>
+  <BlueYo.ingestible.ingestCommandString>Ввести {0}</BlueYo.ingestible.ingestCommandString>
+  <BlueYo.ingestible.ingestReportString>Вводится {0}.</BlueYo.ingestible.ingestReportString>
+
+
+</LanguageData>

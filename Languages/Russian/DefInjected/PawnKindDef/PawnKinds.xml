@@ -1,0 +1,223 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 정착민 -->
+
+  <Moyo_ColonistPawn.label>Колонист Мойо</Moyo_ColonistPawn.label>
+  <Moyo_ColonistPawn.labelPlural>Колонисты Мойо</Moyo_ColonistPawn.labelPlural>
+  <Moyo_ColonistPawn.labelMale>male moyo colonist</Moyo_ColonistPawn.labelMale>
+  <Moyo_ColonistPawn.labelMalePlural>male moyo colonists</Moyo_ColonistPawn.labelMalePlural>
+  <Moyo_ColonistPawn.labelFemale>female moyo colonist</Moyo_ColonistPawn.labelFemale>
+  <Moyo_ColonistPawn.labelFemalePlural>female moyo colonists</Moyo_ColonistPawn.labelFemalePlural>
+
+
+  <!-- 모요 상층시민 -->
+
+  <Moyo_TopCivilan.label>Гражданин высшего сословия Мойо</Moyo_TopCivilan.label>
+  <Moyo_TopCivilan.labelPlural>Граждане высшего сословия Мойо</Moyo_TopCivilan.labelPlural>
+  <Moyo_TopCivilan.labelMale>male moyo toplayer civilian</Moyo_TopCivilan.labelMale>
+  <Moyo_TopCivilan.labelMalePlural>male moyo toplayer civilians</Moyo_TopCivilan.labelMalePlural>
+  <Moyo_TopCivilan.labelFemale>female moyo toplayer civilian</Moyo_TopCivilan.labelFemale>
+  <Moyo_TopCivilan.labelFemalePlural>female moyo toplayer civilians</Moyo_TopCivilan.labelFemalePlural>
+
+
+  <!-- 모요중층시민 -->
+
+  <Moyo_MiddleCivilan.label>Гражданин среднего сословия Мойо</Moyo_MiddleCivilan.label>
+  <Moyo_MiddleCivilan.labelPlural>Граждане среднего сословия Мойо</Moyo_MiddleCivilan.labelPlural>
+  <Moyo_MiddleCivilan.labelMale>male moyo midlayer civilian</Moyo_MiddleCivilan.labelMale>
+  <Moyo_MiddleCivilan.labelMalePlural>male moyo midlayer civilians</Moyo_MiddleCivilan.labelMalePlural>
+  <Moyo_MiddleCivilan.labelFemale>female moyo midlayer civilian</Moyo_MiddleCivilan.labelFemale>
+  <Moyo_MiddleCivilan.labelFemalePlural>female moyo midlayer civilians</Moyo_MiddleCivilan.labelFemalePlural>
+
+
+  <!-- 모요 하층시민 -->
+
+  <Moyo_BottomCivilan.label>Мойо высокого ранга</Moyo_BottomCivilan.label>
+  <Moyo_BottomCivilan.labelPlural>Мойо высокого ранга</Moyo_BottomCivilan.labelPlural>
+  <Moyo_BottomCivilan.labelMale>male moyo Highroller</Moyo_BottomCivilan.labelMale>
+  <Moyo_BottomCivilan.labelMalePlural>male moyo Highrollers</Moyo_BottomCivilan.labelMalePlural>
+  <Moyo_BottomCivilan.labelFemale>female moyo Highroller</Moyo_BottomCivilan.labelFemale>
+  <Moyo_BottomCivilan.labelFemalePlural>female moyo Highrollers</Moyo_BottomCivilan.labelFemalePlural>
+
+
+  <!-- 모요 엔지니어 -->
+
+  <Moyo_Engineer.label>Мойо инженер</Moyo_Engineer.label>
+  <Moyo_Engineer.labelPlural>Мойо инженеры</Moyo_Engineer.labelPlural>
+  <Moyo_Engineer.labelMale>male moyo engineer</Moyo_Engineer.labelMale>
+  <Moyo_Engineer.labelMalePlural>male moyo engineers</Moyo_Engineer.labelMalePlural>
+  <Moyo_Engineer.labelFemale>female moyo engineer</Moyo_Engineer.labelFemale>
+  <Moyo_Engineer.labelFemalePlural>female moyo engineers</Moyo_Engineer.labelFemalePlural>
+
+
+  <!-- 모요 연구진 -->
+
+  <Moyo_Resercher.label>Мойо исследователь</Moyo_Resercher.label>
+  <Moyo_Resercher.labelPlural>Мойо исследователи</Moyo_Resercher.labelPlural>
+  <Moyo_Resercher.labelMale>male moyo milita</Moyo_Resercher.labelMale>
+  <Moyo_Resercher.labelMalePlural>male moyo militas</Moyo_Resercher.labelMalePlural>
+  <Moyo_Resercher.labelFemale>female moyo milita</Moyo_Resercher.labelFemale>
+  <Moyo_Resercher.labelFemalePlural>female moyo militas</Moyo_Resercher.labelFemalePlural>
+
+
+  <!-- 상층 밀수업자 -->
+
+  <Moyo_TopSmuggler.label>Контрабандист высшего класса Мойо</Moyo_TopSmuggler.label>
+  <Moyo_TopSmuggler.labelPlural>Контрабандисты высшего класса Мойо</Moyo_TopSmuggler.labelPlural>
+  <Moyo_TopSmuggler.labelMale>male moyo toplayer smuggler</Moyo_TopSmuggler.labelMale>
+  <Moyo_TopSmuggler.labelMalePlural>male moyo toplayer smugglers</Moyo_TopSmuggler.labelMalePlural>
+  <Moyo_TopSmuggler.labelFemale>female moyo toplayer smuggler</Moyo_TopSmuggler.labelFemale>
+  <Moyo_TopSmuggler.labelFemalePlural>female moyo toplayer smugglers</Moyo_TopSmuggler.labelFemalePlural>
+
+
+  <!-- 중층 밀수업자 -->
+
+  <Moyo_MiddleSmuggler.label>Контрабандист среднего класса Мойо</Moyo_MiddleSmuggler.label>
+  <Moyo_MiddleSmuggler.labelPlural>Контрабандисты среднего класса Мойо</Moyo_MiddleSmuggler.labelPlural>
+  <Moyo_MiddleSmuggler.labelMale>male moyo midlayer smuggler</Moyo_MiddleSmuggler.labelMale>
+  <Moyo_MiddleSmuggler.labelMalePlural>male moyo midlayer smugglers</Moyo_MiddleSmuggler.labelMalePlural>
+  <Moyo_MiddleSmuggler.labelFemale>female moyo midlayer smuggler</Moyo_MiddleSmuggler.labelFemale>
+  <Moyo_MiddleSmuggler.labelFemalePlural>female moyo midlayer smugglers</Moyo_MiddleSmuggler.labelFemalePlural>
+
+
+  <!-- 모요타격대 -->
+
+  <Moyo_SoldierLight.label>легковооружённый солдат Мойо</Moyo_SoldierLight.label>
+  <Moyo_SoldierLight.labelPlural>легковооружённые солдаты Мойо</Moyo_SoldierLight.labelPlural>
+  <Moyo_SoldierLight.labelMale>male moyo trooper</Moyo_SoldierLight.labelMale>
+  <Moyo_SoldierLight.labelMalePlural>male moyo troopers</Moyo_SoldierLight.labelMalePlural>
+  <Moyo_SoldierLight.labelFemale>female moyo trooper</Moyo_SoldierLight.labelFemale>
+  <Moyo_SoldierLight.labelFemalePlural>female moyo troopers</Moyo_SoldierLight.labelFemalePlural>
+
+  <Moyo_SoldierLight_Acidifier.label>moyo trooper</Moyo_SoldierLight_Acidifier.label>
+  <Moyo_SoldierLight_Acidifier.labelPlural>moyo troopers</Moyo_SoldierLight_Acidifier.labelPlural>
+  <Moyo_SoldierLight_Acidifier.labelMale>male moyo trooper</Moyo_SoldierLight_Acidifier.labelMale>
+  <Moyo_SoldierLight_Acidifier.labelMalePlural>male moyo troopers</Moyo_SoldierLight_Acidifier.labelMalePlural>
+  <Moyo_SoldierLight_Acidifier.labelFemale>female moyo trooper</Moyo_SoldierLight_Acidifier.labelFemale>
+  <Moyo_SoldierLight_Acidifier.labelFemalePlural>female moyo troopers</Moyo_SoldierLight_Acidifier.labelFemalePlural>
+
+  <Moyo_SoldierLightrocket.label>moyo trooper</Moyo_SoldierLightrocket.label>
+  <Moyo_SoldierLightrocket.labelPlural>moyo troopers</Moyo_SoldierLightrocket.labelPlural>
+  <Moyo_SoldierLightrocket.labelMale>male moyo trooper</Moyo_SoldierLightrocket.labelMale>
+  <Moyo_SoldierLightrocket.labelMalePlural>male moyo troopers</Moyo_SoldierLightrocket.labelMalePlural>
+  <Moyo_SoldierLightrocket.labelFemale>female moyo trooper</Moyo_SoldierLightrocket.labelFemale>
+  <Moyo_SoldierLightrocket.labelFemalePlural>female moyo troopers</Moyo_SoldierLightrocket.labelFemalePlural>
+
+  <Moyo_SoldierLightrocket_Acidifier.label>moyo trooper</Moyo_SoldierLightrocket_Acidifier.label>
+  <Moyo_SoldierLightrocket_Acidifier.labelPlural>moyo troopers</Moyo_SoldierLightrocket_Acidifier.labelPlural>
+  <Moyo_SoldierLightrocket_Acidifier.labelMale>male moyo trooper</Moyo_SoldierLightrocket_Acidifier.labelMale>
+  <Moyo_SoldierLightrocket_Acidifier.labelMalePlural>male moyo troopers</Moyo_SoldierLightrocket_Acidifier.labelMalePlural>
+  <Moyo_SoldierLightrocket_Acidifier.labelFemale>female moyo trooper</Moyo_SoldierLightrocket_Acidifier.labelFemale>
+  <Moyo_SoldierLightrocket_Acidifier.labelFemalePlural>female moyo troopers</Moyo_SoldierLightrocket_Acidifier.labelFemalePlural>
+
+
+  <!-- 모요전열보병 -->
+
+  <Moyo_SoliderStandard.label>обычный солдат Мойо</Moyo_SoliderStandard.label>
+  <Moyo_SoliderStandard.labelPlural>обычные солдаты Мойо</Moyo_SoliderStandard.labelPlural>
+  <Moyo_SoliderStandard.labelMale>male moyo heavy trooper</Moyo_SoliderStandard.labelMale>
+  <Moyo_SoliderStandard.labelMalePlural>male moyo heavy troopers</Moyo_SoliderStandard.labelMalePlural>
+  <Moyo_SoliderStandard.labelFemale>female moyo heavy trooper</Moyo_SoliderStandard.labelFemale>
+  <Moyo_SoliderStandard.labelFemalePlural>female moyo heavy troopers</Moyo_SoliderStandard.labelFemalePlural>
+
+  <Moyo_SoliderStandard_Acidifier.label>moyo heavy trooper</Moyo_SoliderStandard_Acidifier.label>
+  <Moyo_SoliderStandard_Acidifier.labelPlural>moyo heavy troopers</Moyo_SoliderStandard_Acidifier.labelPlural>
+  <Moyo_SoliderStandard_Acidifier.labelMale>male moyo heavy trooper</Moyo_SoliderStandard_Acidifier.labelMale>
+  <Moyo_SoliderStandard_Acidifier.labelMalePlural>male moyo heavy troopers</Moyo_SoliderStandard_Acidifier.labelMalePlural>
+  <Moyo_SoliderStandard_Acidifier.labelFemale>female moyo heavy trooper</Moyo_SoliderStandard_Acidifier.labelFemale>
+  <Moyo_SoliderStandard_Acidifier.labelFemalePlural>female moyo heavy troopers</Moyo_SoliderStandard_Acidifier.labelFemalePlural>
+
+
+  <!-- 모요중화기병 -->
+
+  <Moyo_SoldierHeavy.label>Бронированный солдат Мойо</Moyo_SoldierHeavy.label>
+  <Moyo_SoldierHeavy.labelPlural>Бронированные солдаты Мойо</Moyo_SoldierHeavy.labelPlural>
+  <Moyo_SoldierHeavy.labelMale>male moyo heavy gunner</Moyo_SoldierHeavy.labelMale>
+  <Moyo_SoldierHeavy.labelMalePlural>male moyo heavy gunners</Moyo_SoldierHeavy.labelMalePlural>
+  <Moyo_SoldierHeavy.labelFemale>female moyo heavy gunner</Moyo_SoldierHeavy.labelFemale>
+  <Moyo_SoldierHeavy.labelFemalePlural>female moyo heavy gunners</Moyo_SoldierHeavy.labelFemalePlural>
+
+  <Moyo_SoldierHeavy_Acidifier.label>moyo heavy gunner</Moyo_SoldierHeavy_Acidifier.label>
+  <Moyo_SoldierHeavy_Acidifier.labelPlural>moyo heavy gunners</Moyo_SoldierHeavy_Acidifier.labelPlural>
+  <Moyo_SoldierHeavy_Acidifier.labelMale>male moyo heavy gunner</Moyo_SoldierHeavy_Acidifier.labelMale>
+  <Moyo_SoldierHeavy_Acidifier.labelMalePlural>male moyo heavy gunners</Moyo_SoldierHeavy_Acidifier.labelMalePlural>
+  <Moyo_SoldierHeavy_Acidifier.labelFemale>female moyo heavy gunner</Moyo_SoldierHeavy_Acidifier.labelFemale>
+  <Moyo_SoldierHeavy_Acidifier.labelFemalePlural>female moyo heavy gunners</Moyo_SoldierHeavy_Acidifier.labelFemalePlural>
+
+
+  <!-- 모요돌격보병 -->
+
+  <Moyo_SoldierAssult.label>Мойо Штурмовик</Moyo_SoldierAssult.label>
+  <Moyo_SoldierAssult.labelPlural>Мойо Штурмовики</Moyo_SoldierAssult.labelPlural>
+  <Moyo_SoldierAssult.labelMale>male moyo assault trooper</Moyo_SoldierAssult.labelMale>
+  <Moyo_SoldierAssult.labelMalePlural>male moyo assault troopers</Moyo_SoldierAssult.labelMalePlural>
+  <Moyo_SoldierAssult.labelFemale>female moyo assault trooper</Moyo_SoldierAssult.labelFemale>
+  <Moyo_SoldierAssult.labelFemalePlural>female moyo assault troopers</Moyo_SoldierAssult.labelFemalePlural>
+
+  <Moyo_SoldierAssult_Acidifier.label>moyo assault trooper</Moyo_SoldierAssult_Acidifier.label>
+  <Moyo_SoldierAssult_Acidifier.labelPlural>moyo assault troopers</Moyo_SoldierAssult_Acidifier.labelPlural>
+  <Moyo_SoldierAssult_Acidifier.labelMale>male moyo assault trooper</Moyo_SoldierAssult_Acidifier.labelMale>
+  <Moyo_SoldierAssult_Acidifier.labelMalePlural>male moyo assault troopers</Moyo_SoldierAssult_Acidifier.labelMalePlural>
+  <Moyo_SoldierAssult_Acidifier.labelFemale>female moyo assault trooper</Moyo_SoldierAssult_Acidifier.labelFemale>
+  <Moyo_SoldierAssult_Acidifier.labelFemalePlural>female moyo assault troopers</Moyo_SoldierAssult_Acidifier.labelFemalePlural>
+
+
+  <!-- 모요 지도자 -->
+
+  <Moyo_leader.label>Лидер Мойо</Moyo_leader.label>
+  <Moyo_leader.labelPlural>Лидеры Мойо</Moyo_leader.labelPlural>
+  <Moyo_leader.labelMale>male moyo refugee Elder</Moyo_leader.labelMale>
+  <Moyo_leader.labelMalePlural>male moyo refugee Elders</Moyo_leader.labelMalePlural>
+  <Moyo_leader.labelFemale>female moyo refugee Elder</Moyo_leader.labelFemale>
+  <Moyo_leader.labelFemalePlural>female moyo refugee Elders</Moyo_leader.labelFemalePlural>
+
+
+  <!-- 모요근위대 -->
+
+  <Moyo_Guardian.label>Королевский гвардеец Мойо</Moyo_Guardian.label>
+  <Moyo_Guardian.labelPlural>Королевская гвардеец Мойо</Moyo_Guardian.labelPlural>
+  <Moyo_Guardian.labelMale>male moyo royalguard</Moyo_Guardian.labelMale>
+  <Moyo_Guardian.labelMalePlural>male moyo royalguards</Moyo_Guardian.labelMalePlural>
+  <Moyo_Guardian.labelFemale>female moyo royalguard</Moyo_Guardian.labelFemale>
+  <Moyo_Guardian.labelFemalePlural>female moyo royalguards</Moyo_Guardian.labelFemalePlural>
+
+  <Moyo_Guardian_Acidifier.label>moyo royalguard</Moyo_Guardian_Acidifier.label>
+  <Moyo_Guardian_Acidifier.labelPlural>moyo royalguards</Moyo_Guardian_Acidifier.labelPlural>
+  <Moyo_Guardian_Acidifier.labelMale>male moyo royalguard</Moyo_Guardian_Acidifier.labelMale>
+  <Moyo_Guardian_Acidifier.labelMalePlural>male moyo royalguards</Moyo_Guardian_Acidifier.labelMalePlural>
+  <Moyo_Guardian_Acidifier.labelFemale>female moyo royalguard</Moyo_Guardian_Acidifier.labelFemale>
+  <Moyo_Guardian_Acidifier.labelFemalePlural>female moyo royalguards</Moyo_Guardian_Acidifier.labelFemalePlural>
+
+
+  <!-- 모요근위대 돌격병 -->
+
+  <!--[Duplicated] <Moyo_GuardianAssault.label>moyo royalguard</Moyo_GuardianAssault.label>-->
+  <!--[Duplicated] <Moyo_GuardianAssault.labelPlural>moyo royalguards</Moyo_GuardianAssault.labelPlural>-->
+  <!--[Duplicated] <Moyo_GuardianAssault.labelMale>male moyo royalguard</Moyo_GuardianAssault.labelMale>-->
+  <!--[Duplicated] <Moyo_GuardianAssault.labelMalePlural>male moyo royalguards</Moyo_GuardianAssault.labelMalePlural>-->
+  <!--[Duplicated] <Moyo_GuardianAssault.labelFemale>female moyo royalguard</Moyo_GuardianAssault.labelFemale>-->
+  <!--[Duplicated] <Moyo_GuardianAssault.labelFemalePlural>female moyo royalguards</Moyo_GuardianAssault.labelFemalePlural>-->
+
+  <Moyo_GuardianAssault.label>Королевская стража Мойо</Moyo_GuardianAssault.label>
+  <Moyo_GuardianAssault.labelPlural>Королевские стражи Мойо</Moyo_GuardianAssault.labelPlural>
+  <Moyo_GuardianAssault.labelMale>male moyo royalguard</Moyo_GuardianAssault.labelMale>
+  <Moyo_GuardianAssault.labelMalePlural>male moyo royalguards</Moyo_GuardianAssault.labelMalePlural>
+  <Moyo_GuardianAssault.labelFemale>female moyo royalguard</Moyo_GuardianAssault.labelFemale>
+  <Moyo_GuardianAssault.labelFemalePlural>female moyo royalguards</Moyo_GuardianAssault.labelFemalePlural>
+
+  <Moyo_GuardianAssault_Acidifier.label>moyo royalguard</Moyo_GuardianAssault_Acidifier.label>
+  <Moyo_GuardianAssault_Acidifier.labelPlural>moyo royalguards</Moyo_GuardianAssault_Acidifier.labelPlural>
+  <Moyo_GuardianAssault_Acidifier.labelMale>male moyo royalguard</Moyo_GuardianAssault_Acidifier.labelMale>
+  <Moyo_GuardianAssault_Acidifier.labelMalePlural>male moyo royalguards</Moyo_GuardianAssault_Acidifier.labelMalePlural>
+  <Moyo_GuardianAssault_Acidifier.labelFemale>female moyo royalguard</Moyo_GuardianAssault_Acidifier.labelFemale>
+  <Moyo_GuardianAssault_Acidifier.labelFemalePlural>female moyo royalguards</Moyo_GuardianAssault_Acidifier.labelFemalePlural>
+
+
+  <!--<Moyo_General.label>Генерал Мойо</Moyo_General.label>-->
+  <!--<Moyo_General.labelPlural>Генералы Мойо</Moyo_General.labelPlural>-->
+  <!--<MoyoHexapod_Kind.label>Добрый Гексапод Мойо</MoyoHexapod_Kind.label>-->
+  <!--<MoyoCryopod_Kind.label>Добрые Гексапод Мойо</MoyoCryopod_Kind.label>-->
+  <!--<MoyoPressurePod_Kind.label>Благожелательный Мойо</MoyoPressurePod_Kind.label>-->
+
+</LanguageData>

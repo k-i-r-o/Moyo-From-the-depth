@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- HPF.HPFWorkGiverDef is inheritance of WorkGiverDef with some additional arguments -->
+
+  <ExtractDeepBlue_Work.label>draw blood</ExtractDeepBlue_Work.label>
+  <ExtractDeepBlue_Work.verb>draw blood</ExtractDeepBlue_Work.verb>
+  <ExtractDeepBlue_Work.gerund>drawing blood</ExtractDeepBlue_Work.gerund>
+
+
+</LanguageData>

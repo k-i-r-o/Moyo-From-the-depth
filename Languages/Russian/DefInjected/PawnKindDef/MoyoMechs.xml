@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 프레셔포드 -->
+
+  <MoyoPressurePod_Kind.label>Благожелательный Мойо</MoyoPressurePod_Kind.label>
+  <MoyoPressurePod_Kind.labelPlural>pressurepods</MoyoPressurePod_Kind.labelPlural>
+  <MoyoPressurePod_Kind.labelMale>male pressurepod</MoyoPressurePod_Kind.labelMale>
+  <MoyoPressurePod_Kind.labelMalePlural>male pressurepods</MoyoPressurePod_Kind.labelMalePlural>
+  <MoyoPressurePod_Kind.labelFemale>female pressurepod</MoyoPressurePod_Kind.labelFemale>
+  <MoyoPressurePod_Kind.labelFemalePlural>female pressurepods</MoyoPressurePod_Kind.labelFemalePlural>
+
+
+  <!-- 헥사포드 베이스 -->
+
+  <MoyoHexapod_Kind.label>Добрый Гексапод Мойо</MoyoHexapod_Kind.label>
+  <MoyoHexapod_Kind.labelPlural>hexapods</MoyoHexapod_Kind.labelPlural>
+  <MoyoHexapod_Kind.labelMale>male hexapod</MoyoHexapod_Kind.labelMale>
+  <MoyoHexapod_Kind.labelMalePlural>male hexapods</MoyoHexapod_Kind.labelMalePlural>
+  <MoyoHexapod_Kind.labelFemale>female hexapod</MoyoHexapod_Kind.labelFemale>
+  <MoyoHexapod_Kind.labelFemalePlural>female hexapods</MoyoHexapod_Kind.labelFemalePlural>
+
+  <MoyoCryopod_Kind.label>Добрые Гексапод Мойо</MoyoCryopod_Kind.label>
+  <MoyoCryopod_Kind.labelPlural>cryopods</MoyoCryopod_Kind.labelPlural>
+  <MoyoCryopod_Kind.labelMale>male cryopod</MoyoCryopod_Kind.labelMale>
+  <MoyoCryopod_Kind.labelMalePlural>male cryopods</MoyoCryopod_Kind.labelMalePlural>
+  <MoyoCryopod_Kind.labelFemale>female cryopod</MoyoCryopod_Kind.labelFemale>
+  <MoyoCryopod_Kind.labelFemalePlural>female cryopods</MoyoCryopod_Kind.labelFemalePlural>
+
+
+</LanguageData>

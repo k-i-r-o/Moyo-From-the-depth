@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Heavy charge blaster -->
+
+  <Bullet_MoyoCRBlast.label>Криоболтт Мойо</Bullet_MoyoCRBlast.label>
+
+  <Moyo_CryoRifle.label>Криопушка Мойо</Moyo_CryoRifle.label>
+  <Moyo_CryoRifle.description>Криогенное оружие Мойо, которое стреляет криогенными бомбами, как bp пушки. Это оружие в основном устанавливается на криоподах и, как могут видеть пользователи, не предназначено для использования человеком.</Moyo_CryoRifle.description>
+  <Moyo_CryoRifle.tools.0.label>barrel</Moyo_CryoRifle.tools.0.label>
+
+
+</LanguageData>

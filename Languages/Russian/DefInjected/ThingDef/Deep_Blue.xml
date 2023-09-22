@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 혈액팩 & 혈청 -->
+
+  <Moyo_BloodBag.label>Пакет крови Мойо</Moyo_BloodBag.label>
+  <Moyo_BloodBag.description>Пакет с кровью Мойо, взятой разными способами. Говорят, что кровь, содержащаяся в кармане, содержит особый ингредиент под названием Глубокая Синева. Какие у вас есть возможности?</Moyo_BloodBag.description>
+
+  <AbyssSerum.label>Сыворотка Глубокой Синевы</AbyssSerum.label>
+  <AbyssSerum.description>Это набор ингредиентов под названием Глубокой Синевы, извлеченных из крови Мойо. Введенный темно-синий модифицирует тело жертвы, обеспечивая более эффективный обмен веществ. Это изменение нельзя отменить.\n\n Это ингредиент, открытый Мойо путем отслеживания их происхождения, и имеет большой медицинский потенциал. О том, что это за ингредиент, ничего не известно.</AbyssSerum.description>
+  <AbyssSerum.ingestible.ingestCommandString>Иньекция {0}</AbyssSerum.ingestible.ingestCommandString>
+  <AbyssSerum.ingestible.ingestReportString>Вводится {0}.</AbyssSerum.ingestible.ingestReportString>
+
+
+  <!-- 혈액팩 -->
+  <!-- AbyssSerum -->
+
+</LanguageData>

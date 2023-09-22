@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Moyo_ChargeBolt.label>Электромагнитный разряд</Moyo_ChargeBolt.label>
+  <Moyo_ChargeBolt.deathMessage>{0}(этот)Был застрелен.</Moyo_ChargeBolt.deathMessage>
+
+  <Moyo_Cryo.label>обморожение</Moyo_Cryo.label>
+  <Moyo_Cryo.deathMessage>{0}(этот)умер от обморожения.</Moyo_Cryo.deathMessage>
+
+  <HexapodTentacle.label>отупел</HexapodTentacle.label>
+  <HexapodTentacle.deathMessage>{0} has been killed.</HexapodTentacle.deathMessage>
+
+
+</LanguageData>

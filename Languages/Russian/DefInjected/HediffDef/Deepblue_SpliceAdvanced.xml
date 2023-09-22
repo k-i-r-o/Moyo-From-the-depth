@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- blueburst hediff -->
+
+  <BlueBurstHighPrecursor.label>BlueBurstHighPrecursor</BlueBurstHighPrecursor.label>
+  <BlueBurstHighPrecursor.description>applying stage. You should not be reading this.</BlueBurstHighPrecursor.description>
+
+  <BlueBurstHigh.label>Сердечно-сосудистая перегрузка</BlueBurstHigh.label>
+  <BlueBurstHigh.description>Сердечно-сосудистая система перегружена. Вырабатывается огромное количество крови, что является тяжелой нагрузкой на сердце. Этот эффект смертелен для объекта.</BlueBurstHigh.description>
+  <BlueBurstHigh.labelNoun>Сердечно-сосудистая перегрузка</BlueBurstHigh.labelNoun>
+
+
+  <!-- BlueBurstT -->
+
+  <BlueBurstT.label>BlueBurstT</BlueBurstT.label>
+  <BlueBurstT.description>null.</BlueBurstT.description>
+
+
+  <!-- BlueBurstA -->
+
+  <BlueBurstA.label>BlueBurstA</BlueBurstA.label>
+  <BlueBurstA.description>null.</BlueBurstA.description>
+
+
+  <!-- BlueMedHigh -->
+
+  <BlueMedHigh.label>Ускоренная регенерация</BlueMedHigh.label>
+  <BlueMedHigh.description>Ускоренная регенерация. Этот эффект снизит общее кровотечение и ускорит заживление ран и инфекций.</BlueMedHigh.description>
+  <BlueMedHigh.labelNoun>Ускоренная регенерация</BlueMedHigh.labelNoun>
+
+
+  <!-- penoxy-blue hediff -->
+
+  <PenoxyBlueHigh.label>Синий-пеноксицилин</PenoxyBlueHigh.label>
+  <PenoxyBlueHigh.description>Иммунные/лечебные эффекты против некоторых заболеваний, вызванный Синим-пеноксицилин. Эффект разовый.</PenoxyBlueHigh.description>
+
+
+  <!-- clens-azure hediff -->
+
+  <ClensazureHigh.label>Чистая лазурь</ClensazureHigh.label>
+  <ClensazureHigh.description>Это иммунный/лечебный эффект против паразитов, вызванный Чистой лазурью. Эффект разовый.</ClensazureHigh.description>
+
+
+  <!-- 서스테이너 라피스 헤디프 -->
+
+  <SustainerLapisHigh.label>Инжектор-поддержки</SustainerLapisHigh.label>
+  <SustainerLapisHigh.description>Это укрепляющий эффект инжектора-поддержки. Вы не чувствуете потребности в еде и сне в течение короткого периода времени.</SustainerLapisHigh.description>
+
+  <SustainerLapisHigh_After.label>Восстановление после инжектора-поддержки</SustainerLapisHigh_After.label>
+  <SustainerLapisHigh_After.description>Эффект инжектора-поддержки восстанавливается. В этот период больше нельзя использовать инжекторы.</SustainerLapisHigh_After.description>
+
+
+  <!-- 디톡서 헤디프 -->
+
+  <DetoxerCobaltHigh.label>Повышение детоксикационной способности</DetoxerCobaltHigh.label>
+  <DetoxerCobaltHigh.description>Повышена детоксикационная способность. Удаляет скопившиеся в организме токсины и предотвращает дальнейшее отравление.</DetoxerCobaltHigh.description>
+
+
+</LanguageData>

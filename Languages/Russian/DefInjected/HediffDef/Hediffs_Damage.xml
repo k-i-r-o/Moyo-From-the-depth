@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HexapodConstriction.label>Скованность</HexapodConstriction.label>
+  <HexapodConstriction.description>Скованность щупальцец Гексапода, что мешает движению.</HexapodConstriction.description>
+
+  <Moyo_CryoSlowdown.label>Криогенная гипотермия</Moyo_CryoSlowdown.label>
+  <Moyo_CryoSlowdown.description>Это внезапное снижение температуры тела, вызванное криогенным оружием. Со временем он вернется в исходное состояние, но если станет слишком тяжелым, это приведет к смерти.</Moyo_CryoSlowdown.description>
+  <Moyo_CryoSlowdown.stages.0.label>Озноб</Moyo_CryoSlowdown.stages.0.label>
+  <Moyo_CryoSlowdown.stages.1.label>легкий</Moyo_CryoSlowdown.stages.1.label>
+  <Moyo_CryoSlowdown.stages.2.label>тяжёлый</Moyo_CryoSlowdown.stages.2.label>
+  <Moyo_CryoSlowdown.stages.3.label>Экстремальный</Moyo_CryoSlowdown.stages.3.label>
+  <Moyo_CryoSlowdown.stages.4.label>extreme</Moyo_CryoSlowdown.stages.4.label>
+
+
+</LanguageData>

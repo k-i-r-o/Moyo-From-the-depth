@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--<Moyo_PlayerFaction.label>Беженцы</Moyo_PlayerFaction.label>-->
+  <!--<Moyo_PlayerFaction.description>Это убежище построили Мойо, которые по разным причинам покинули маяк.</Moyo_PlayerFaction.description>-->
+  <!--<Moyo_PlayerFaction.pawnSingular>Поселенец</Moyo_PlayerFaction.pawnSingular>-->
+  <!--<Moyo_PlayerFaction.pawnsPlural>Поселенцы</Moyo_PlayerFaction.pawnsPlural>-->
+  <!--<Moyo_HavenFaction.label>Убежище Мойо</Moyo_HavenFaction.label>-->
+  <!--<Moyo_HavenFaction.description>Это поселение Мойо, которые покинули маяк и вышли на поверхность. \n\nМойо, покинувшие маяк по разным причинам, таким как гражданская война, корабль-база, побег, торговля с землей и т.д., Объединились, чтобы выжить.</Moyo_HavenFaction.description>-->
+  <!--<Moyo_HavenFaction.pawnSingular>Мойо</Moyo_HavenFaction.pawnSingular>-->
+  <!--<Moyo_HavenFaction.pawnsPlural>Мойо</Moyo_HavenFaction.pawnsPlural>-->
+  <!--<Moyo_HavenFaction.leaderTitle>Беженец старейшина</Moyo_HavenFaction.leaderTitle>-->
+  <!--<Moyo_HavenHostile.label>Враждебные беженцы</Moyo_HavenHostile.label>-->
+  <!--<Moyo_HavenHostile.description>Это поселение Мойо, которые покинули маяк и подошел к земле. \n\nЭто экстремисты беженцев, кричащие о том, что мир требует сильной власти и контроля над окружающей местностью. Из-за разногласий они отделились от других беженцев.</Moyo_HavenHostile.description>-->
+  <!--<Moyo_HavenFaction.pawnSingular>Мойо</Moyo_HavenFaction.pawnSingular>-->
+  <!--<Moyo_HavenFaction.pawnsPlural>Мойо</Moyo_HavenFaction.pawnsPlural>-->
+  <!--<Moyo_HavenHostile.leaderTitle>Генерал беженцев</Moyo_HavenHostile.leaderTitle>-->
+
+</LanguageData>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 혈액팩 & 혈청 -->
+
+  <DeepBlueThought.stages.0.label>Глубокое посинение</DeepBlueThought.stages.0.label>
+  <DeepBlueThought.stages.0.description>Как побочный эффект темно-синего, вы чувствуете себя немного синим XD.</DeepBlueThought.stages.0.description>
+
+
+  <!-- 딥블루 거부감 -->
+
+  <Moyo_DeepBlueReactionThought.stages.0.label>Отклонение Глубокой Синевы(начальное)</Moyo_DeepBlueReactionThought.stages.0.label>
+  <Moyo_DeepBlueReactionThought.stages.0.description>Что-то неудобное ...</Moyo_DeepBlueReactionThought.stages.0.description>
+  <Moyo_DeepBlueReactionThought.stages.1.label>Отклонение Глубокой Синевы (незначительное)(</Moyo_DeepBlueReactionThought.stages.1.label>
+  <Moyo_DeepBlueReactionThought.stages.1.description>У меня живот колышется...</Moyo_DeepBlueReactionThought.stages.1.description>
+  <Moyo_DeepBlueReactionThought.stages.2.label>Отклонение Глубокой Синевы (тяжёлое)</Moyo_DeepBlueReactionThought.stages.2.label>
+  <Moyo_DeepBlueReactionThought.stages.2.description>Все в мире синее ...</Moyo_DeepBlueReactionThought.stages.2.description>
+  <Moyo_DeepBlueReactionThought.stages.3.label>Отклонение Глубокой Синевы (экстремальное)</Moyo_DeepBlueReactionThought.stages.3.label>
+  <Moyo_DeepBlueReactionThought.stages.3.description>(звучит ужасно)</Moyo_DeepBlueReactionThought.stages.3.description>
+
+
+</LanguageData>
