@@ -3,7 +3,7 @@
 
   <!-- HPF.HPFJobDef is inheritance of JobDef with some additional arguments -->
 
-  <ExtractDeepBlue_Job.reportString>extracting Deep blue from TargetA.</ExtractDeepBlue_Job.reportString>
+  <ExtractDeepBlue_Job.reportString>извлечение глубокой синевы цвета из TargetA.</ExtractDeepBlue_Job.reportString>
 
 
 </LanguageData>
