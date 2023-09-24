@@ -3,8 +3,8 @@
 
   <Alien_Moyo.label>Мойо</Alien_Moyo.label>
   <Alien_Moyo.description>Это гуманоидная раса, поселившаяся в городе глубоко в море. Их кровь, обладающая характеристиками, напоминающими морские существа, содержит полезные компоненты в области медицины.\n\Они берут свое начало в процветающей секте, которая является пионером морских глубин, и теперь они проходят через поколения. Я пришел, чтобы иметь. Они распространились по разным частям периферии, строя и процветая свои города. До настоящего времени.</Alien_Moyo.description>
-  <Alien_Moyo.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>skin</Alien_Moyo.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>
-  <Alien_Moyo.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>hair</Alien_Moyo.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>
+  <Alien_Moyo.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>кожа</Alien_Moyo.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>
+  <Alien_Moyo.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>волосы</Alien_Moyo.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>
   <Alien_Moyo.tools.0.label>левый кулак</Alien_Moyo.tools.0.label>
   <Alien_Moyo.tools.1.label>правый кулак</Alien_Moyo.tools.1.label>
   <Alien_Moyo.tools.2.label>зубы</Alien_Moyo.tools.2.label>
