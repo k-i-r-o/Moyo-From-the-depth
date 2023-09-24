@@ -11,14 +11,14 @@
   <!-- 고아 -->
 
   <Moyo_Orphan.title>сирота мойо</Moyo_Orphan.title>
-  <Moyo_Orphan.titleShort>Сирота</Moyo_Orphan.titleShort>
+  <Moyo_Orphan.titleShort>сирота</Moyo_Orphan.titleShort>
   <Moyo_Orphan.baseDesc>[PAWN_nameDef] была разлучена со своими родителями и выросла в детском доме. В приюте было много сирот, подобных  [PAWN_pronoun] и некоторые даже видели, как их родители умирали у них на глазах. [PAWN_pronoun] провела [PAWN_possessive] дни, ожидая возвращения своих родителей.</Moyo_Orphan.baseDesc>
 
 
   <!-- 정비공지망생 -->
 
-  <Moyo_MechanicWannabe.title>moyo mechanic wannabe</Moyo_MechanicWannabe.title>
-  <Moyo_MechanicWannabe.titleShort>mechanic wannabe</Moyo_MechanicWannabe.titleShort>
+  <Moyo_MechanicWannabe.title>подражатель механика мойо</Moyo_MechanicWannabe.title>
+  <Moyo_MechanicWannabe.titleShort>подражатель механика</Moyo_MechanicWannabe.titleShort>
   <Moyo_MechanicWannabe.baseDesc>[PAWN_nameDef] питал пристрастие к различным машинам и приспособлениям. К счастью для [PAWN_pronoun] море было заполнено металлоломом и деталями, с которыми она могла играть.</Moyo_MechanicWannabe.baseDesc>
 
 
@@ -80,22 +80,22 @@
 
   <!-- 어린 중독자 -->
 
-  <Moyo_YoungJunkie.title>moyo young junkie</Moyo_YoungJunkie.title>
-  <Moyo_YoungJunkie.titleShort>young junkie</Moyo_YoungJunkie.titleShort>
-  <Moyo_YoungJunkie.baseDesc>[PAWN_nameDef] somehow managed to get [PAWN_possessive] hands on some psychite. The euphoric high of the drugs was too much for [Pawn_possessive] young mind, and soon [PAWN_nameDef] was doing anything [PAWN_pronoun] could for [PAWN_possessive] next fix. Soon [PAWN_possessive] normal fix could no longer satisfy [PAWN_possessive], and [PAWN_nameDef] sought out new drugs.</Moyo_YoungJunkie.baseDesc>
+  <Moyo_YoungJunkie.title>молодая наркоманка мойо</Moyo_YoungJunkie.title>
+  <Moyo_YoungJunkie.titleShort>молодая наркоманка</Moyo_YoungJunkie.titleShort>
+  <Moyo_YoungJunkie.baseDesc>[PAWN_nameDef] каким-то образом сумела заполучить в свои руки [PAWN_possessive] какого-то психита. Эйфорический кайф от наркотиков был слишком силен для юного разума [Pawn_possessive], и вскоре [PAWN_nameDef] делала все, что [PAWN_pronoun] могла, для [PAWN_possessive] следующей дозы. Вскоре [PAWN_possessive] обычное лечение больше не могло удовлетворять [PAWN_possessive], и [PAWN_nameDef] искала новые лекарства.</Moyo_YoungJunkie.baseDesc>
 
 
   <!-- 병약한 아이 -->
 
-  <Moyo_SicklyChild.title>moyo sickly child</Moyo_SicklyChild.title>
-  <Moyo_SicklyChild.titleShort>sickly child</Moyo_SicklyChild.titleShort>
-  <Moyo_SicklyChild.baseDesc>[PAWN_nameDef] was born sickly, and spent most of [PAWN_possessive] time in bed. [PAWN_possessive] constant sickness left [PAWN_objective] ill tempered, and long with her lack of interaction with other moyos, resulted in her poor communication skills. The only retreat [PAWN_possessive] has was the pursuit of knowledge.</Moyo_SicklyChild.baseDesc>
+  <Moyo_SicklyChild.title>болезненный ребенок мойо</Moyo_SicklyChild.title>
+  <Moyo_SicklyChild.titleShort>болезненный ребенок</Moyo_SicklyChild.titleShort>
+  <Moyo_SicklyChild.baseDesc>[PAWN_nameDef] родилась болезненной и проводила большую часть времени [PAWN_possessive] в постели. [PAWN_possessive] постоянная болезнь сделала [PAWN_objective] вспыльчивой, и долгое отсутствие взаимодействия с другими мойо привело к ее плохим коммуникативным навыкам. Единственным отступлением [PAWN_possessive] было стремление к знаниям.</Moyo_SicklyChild.baseDesc>
 
 
   <!-- 밀수업 협조자 -->
 
-  <Moyo_SmugglerRunner.title>moyo smuggler runner</Moyo_SmugglerRunner.title>
-  <Moyo_SmugglerRunner.titleShort>smuggler runner</Moyo_SmugglerRunner.titleShort>
+  <Moyo_SmugglerRunner.title>беглец-контрабандист мойо</Moyo_SmugglerRunner.title>
+  <Moyo_SmugglerRunner.titleShort>беглец-контрабандист</Moyo_SmugglerRunner.titleShort>
   <Moyo_SmugglerRunner.baseDesc>[PAWN_nameDef] выполняла случайную работу для контрабандистов. Присоединившись, чтобы заработать деньги [PAWN_pronoun], в основном занималась перемещением товаров и информации. [PAWN_pronoun] быстро научилась использовать [PAWN_possessive] молодые люди ищут [PAWN_possessive] работу.</Moyo_SmugglerRunner.baseDesc>
 
 
@@ -108,16 +108,16 @@
 
   <!-- 소년병 -->
 
-  <Moyo_ChildSoldier.title>moyo child soldier</Moyo_ChildSoldier.title>
-  <Moyo_ChildSoldier.titleShort>child soldier</Moyo_ChildSoldier.titleShort>
-  <Moyo_ChildSoldier.baseDesc>While other children where given toys [PAWN_nameDef] was handed a gun. Kidnapped and sent to fight in the civil war, [PAWN_pronoun] learned it was kill or be killed out in the battlefield, and fought only to survive.</Moyo_ChildSoldier.baseDesc>
+  <Moyo_ChildSoldier.title>ребенок-солдат мойо</Moyo_ChildSoldier.title>
+  <Moyo_ChildSoldier.titleShort>ребенок-солдат</Moyo_ChildSoldier.titleShort>
+  <Moyo_ChildSoldier.baseDesc>В то время как другим детям давали игрушки, [PAWN_nameDef] вручили пистолет. Похищенная и отправленная сражаться на гражданской войне, [PAWN_pronoun] узнала, что на поле боя нужно было убить или быть убитой, и сражалась только за то, чтобы выжить.</Moyo_ChildSoldier.baseDesc>
 
 
   <!-- 고위층 자녀 -->
 
-  <Moyo_HighbonChild.title>moyo highborn child</Moyo_HighbonChild.title>
-  <Moyo_HighbonChild.titleShort>highborn child</Moyo_HighbonChild.titleShort>
-  <Moyo_HighbonChild.baseDesc>[PAWN_nameDef] was a highborn moyo from the lower levels. Housework was done by the servants, and all [PAWN_pronoun] had to do was enjoy [PAWN_possessive] live. Neither the civil war, nor the moyo that died in it where any of [PAWN_possessive] concern. Probably.</Moyo_HighbonChild.baseDesc>
+  <Moyo_HighbonChild.title>высокородный ребенок мойо</Moyo_HighbonChild.title>
+  <Moyo_HighbonChild.titleShort>высокородный ребенок</Moyo_HighbonChild.titleShort>
+  <Moyo_HighbonChild.baseDesc>[PAWN_nameDef] была высокородной мойо с нижних уровней. Домашнюю работу выполняли слуги, и все, что [PAWN_pronoun] должна была делать, это наслаждаться жизнью [PAWN_possessive].</Moyo_HighbonChild.baseDesc>
 
 
   <!-- 어린 연예인 -->
