@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <DeepblueStat.label>Deeplbue production amount</DeepblueStat.label>
-  <DeepblueStat.description>How much deepblue this pawn provides.</DeepblueStat.description>
+  <DeepblueStat.label>Объем производства Глубокой Синевы</DeepblueStat.label>
+  <DeepblueStat.description>Сколько Глубокой Синевы цвета дает эта мойо.</DeepblueStat.description>
 
-  <DeepblueStatSpeed.label>Deeplbue production speed</DeepblueStatSpeed.label>
-  <DeepblueStatSpeed.description>How fast this pawn provides deepblue.</DeepblueStatSpeed.description>
+  <DeepblueStatSpeed.label>Скорость производства Глубокой Синевы</DeepblueStatSpeed.label>
+  <DeepblueStatSpeed.description>Насколько быстро эта мойо вырабатывает Глубокую Синеву.</DeepblueStatSpeed.description>
 
 
 </LanguageData>
