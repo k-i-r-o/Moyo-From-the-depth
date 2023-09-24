@@ -3,9 +3,9 @@
 
   <!-- moyo healer -->
 
-  <AdministerMoyo_HealerSerum.label>administer abysstech healer mech serum</AdministerMoyo_HealerSerum.label>
-  <AdministerMoyo_HealerSerum.description>Administer an abysstech healer mech serum.</AdministerMoyo_HealerSerum.description>
-  <AdministerMoyo_HealerSerum.jobString>Administering abysstech healer mech serum.</AdministerMoyo_HealerSerum.jobString>
+  <AdministerMoyo_HealerSerum.label>нанесите сыворотку для роботов abyss techhealer</AdministerMoyo_HealerSerum.label>
+  <AdministerMoyo_HealerSerum.description>Нанесите сыворотку для меха-целителя abysstech.</AdministerMoyo_HealerSerum.description>
+  <AdministerMoyo_HealerSerum.jobString>Введение сыворотки для меха-целителя abysstech.</AdministerMoyo_HealerSerum.jobString>
 
 
 </LanguageData>
