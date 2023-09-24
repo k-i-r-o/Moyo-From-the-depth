@@ -122,37 +122,37 @@
 
   <!-- 어린 연예인 -->
 
-  <Moyo_YoungCelebrity.title>moyo young celebrity</Moyo_YoungCelebrity.title>
-  <Moyo_YoungCelebrity.titleShort>celebrity</Moyo_YoungCelebrity.titleShort>
-  <Moyo_YoungCelebrity.baseDesc>[PAWN_nameDef] was famed for [PAWN_possessive] singing, dancing, acting, any many more besides. Countless moyo living in the city idolized [PAWN_nameDef]. There were many rumors about how [PAWN_nameDef] became so famous at such a young age, but only [PAWN_nameDef] would know the truth.</Moyo_YoungCelebrity.baseDesc>
+  <Moyo_YoungCelebrity.title>молодая знаменитость мойо</Moyo_YoungCelebrity.title>
+  <Moyo_YoungCelebrity.titleShort>молодая знаменитость</Moyo_YoungCelebrity.titleShort>
+  <Moyo_YoungCelebrity.baseDesc>[PAWN_nameDef] прославилась [PAWN_possessive] пением, танцами, актерским мастерством и многим другим помимо этого. Бесчисленные мойо, живущие в городе, боготворили [PAWN_nameDef]. Ходило много слухов о том, как [PAWN_nameDef] стала такой знаменитой в столь юном возрасте, но только [PAWN_nameDef] знала правду.</Moyo_YoungCelebrity.baseDesc>
 
 
   <!-- 충격받은 간호사 -->
 
-  <Moyo_ShockedNurse.title>moyo shocked nurse</Moyo_ShockedNurse.title>
-  <Moyo_ShockedNurse.titleShort>nurse</Moyo_ShockedNurse.titleShort>
-  <Moyo_ShockedNurse.baseDesc>[PAWN_nameDef] was conscripted as a nurse to deal with manpower shortages in the hospital. While [PAWN_pronoun] normally tended to light wounds, [PAWN_pronoun] had to deal with serious wounds as well. The work was taxing on [PAWN_nameDef], both physically and mentally.</Moyo_ShockedNurse.baseDesc>
+  <Moyo_ShockedNurse.title>шокированная медсестра мойо</Moyo_ShockedNurse.title>
+  <Moyo_ShockedNurse.titleShort>медсестра</Moyo_ShockedNurse.titleShort>
+  <Moyo_ShockedNurse.baseDesc>[PAWN_nameDef] была призвана медсестрой, чтобы справиться с нехваткой рабочей силы в больнице. В то время как [PAWN_pronoun] обычно лечила легкие ранения, [PAWN_pronoun] приходилось иметь дело и с серьезными ранениями. Работа была изнурительной для [PAWN_nameDef], как физически, так и морально.</Moyo_ShockedNurse.baseDesc>
 
 
   <!-- 공학도 -->
 
-  <Moyo_EngineeringStudent.title>moyo engineering student</Moyo_EngineeringStudent.title>
-  <Moyo_EngineeringStudent.titleShort>engineering student</Moyo_EngineeringStudent.titleShort>
-  <Moyo_EngineeringStudent.baseDesc>The expansion and construction of the lighthouse is no trivial matter, and city engineers are often trained from a young age. [PAWN_nameDef] studied many blueprints as [PAWN_pronoun] prepared to become a engineer.</Moyo_EngineeringStudent.baseDesc>
+  <Moyo_EngineeringStudent.title>студент-инженер мойо</Moyo_EngineeringStudent.title>
+  <Moyo_EngineeringStudent.titleShort>студент-инженер</Moyo_EngineeringStudent.titleShort>
+  <Moyo_EngineeringStudent.baseDesc>Расширение и строительство маяка - дело не тривиальное, и городских инженеров часто обучают с раннего возраста. [PAWN_nameDef] изучила множество чертежей, когда [PAWN_pronoun] готовилась стать инженером.</Moyo_EngineeringStudent.baseDesc>
 
 
   <!-- 배양된 군인 -->
 
-  <Moyo_VatgrownSoldier.title>moyo vatgrown soldier</Moyo_VatgrownSoldier.title>
-  <Moyo_VatgrownSoldier.titleShort>vatgrown soldier</Moyo_VatgrownSoldier.titleShort>
-  <Moyo_VatgrownSoldier.baseDesc>[PAWN_nameDef] was not a result of love nor lust. [PAWN_pronoun] was grown in a vat, assigned a number, and sent to a facility in the lower levels for military training. More used to her number than the name given on her graduation, [PAWN_pronoun] is the product of the lighthouse’s bloody reality.</Moyo_VatgrownSoldier.baseDesc>
+  <Moyo_VatgrownSoldier.title>вырощенный солдат мойо</Moyo_VatgrownSoldier.title>
+  <Moyo_VatgrownSoldier.titleShort>вырощенный солдат</Moyo_VatgrownSoldier.titleShort>
+  <Moyo_VatgrownSoldier.baseDesc>[PAWN_nameDef] не была результатом ни любви, ни похоти. [PAWN_pronoun] была выращена в чане, ей присвоили номер и отправили на объект на нижних уровнях для военной подготовки. Больше привыкшая к своему номеру, чем к имени, данному на ее выпускном, [PAWN_pronoun] является продуктом кровавой реальности маяка.</Moyo_VatgrownSoldier.baseDesc>
 
 
   <!-- 농부 -->
 
-  <Moyo_Farmer.title>moyo farmer</Moyo_Farmer.title>
-  <Moyo_Farmer.titleShort>farmer</Moyo_Farmer.titleShort>
-  <Moyo_Farmer.baseDesc>[PAWN_nameDef] was a farmer on the upper levels growing food and fiber in the lush kelp farms. Although idealistic at first glance, the thick kelp gave plenty of cover to potential trespassers, was a constant source of headaches for [PAWN_nameDef].</Moyo_Farmer.baseDesc>
+  <Moyo_Farmer.title>фермер мойо</Moyo_Farmer.title>
+  <Moyo_Farmer.titleShort>фермер</Moyo_Farmer.titleShort>
+  <Moyo_Farmer.baseDesc>[PAWN_nameDef] была фермером на верхних уровнях, выращивающим продукты питания и клетчатку на фермах с пышными водорослями. Несмотря на кажущуюся идеальность на первый взгляд, густые водоросли служили отличным укрытием для потенциальных нарушителей границы и были постоянным источником головной боли для [PAWN_nameDef].</Moyo_Farmer.baseDesc>
 
 
   <!-- 공방일꾼 -->
