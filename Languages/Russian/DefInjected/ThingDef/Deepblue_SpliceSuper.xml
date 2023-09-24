@@ -7,13 +7,13 @@
   <Moyo_HealerSerum.description>Это кристалл технологии Мойо, который регулирует извлечение меканита через Глубокую Синеву. Он имеет ту же функцию, что и обычная восстанавливающая сыворотка, и в качестве материала используется Глубокую Синеву, но связанный с этим эффект не возникает.\n\nЭто конечная станция Глубокой Синевы для медицинского использования и интенсивное воплощение маячной биотехнологии и машиностроения. Без преувеличения можно сказать, что эта сыворотка, одно из самых больших достижений маяка, является лучшим лекарством, которое можгут предложить Технологии Бездны. * Он не пристрастился к Глубокой синеве даже при использовании.</Moyo_HealerSerum.description>
   <Moyo_HealerSerum.comps.0.useLabel>Применение Глубинных технологий лечебной сыворотки</Moyo_HealerSerum.comps.0.useLabel>
 
-  <Moyo_neuroSerum_base.description>A pinnacle of abysstech, a solution of mechanites tuned with deepblue to accelerate experience gaining. Though its effect is minor compared to the contemporary one, but its free of deepblue-related effect despite a huge amount was used in production.\n\nSeemed to be the current limit of medicinal deepblue, this is a masterwork of biological and mechanical engineering combined that has been achived by the lighthouse.</Moyo_neuroSerum_base.description>
-  <Moyo_neuroSerum_base.comps.0.useLabel>Use {0_label}</Moyo_neuroSerum_base.comps.0.useLabel>
+  <Moyo_neuroSerum_base.description>Вершина глубинных технологий, решение для механики, настроенное с помощью Глубокой Синевы для ускорения получения опыта. Хотя его эффект незначителен по сравнению с современным, но он не имеет эффекта, связанного с Глубокой Синевой, несмотря на то, что в производстве использовалось огромное количество.\n\nКазалось бы, это нынешний предел возможностей медицинской Глубокой Синевы, но это шедевр биологической и механической инженерии в сочетании, достигнутый компанией маяка.</Moyo_neuroSerum_base.description>
+  <Moyo_neuroSerum_base.comps.0.useLabel>Применение {0_label}</Moyo_neuroSerum_base.comps.0.useLabel>
 
-  <Moyo_neuroSerum_combat.label>abysstech neurotrainer serum(Combat)</Moyo_neuroSerum_combat.label>
-  <Moyo_neuroSerum_combat.description>A pinnacle of abysstech, a solution of mechanites tuned with deepblue to accelerate experience gaining. Though its effect is minor compared to the contemporary one, but its free of deepblue-related effect despite a huge amount was used in production.\n\nSeemed to be the current limit of medicinal deepblue, this is a masterwork of biological and mechanical engineering combined that has been achived by the lighthouse.</Moyo_neuroSerum_combat.description>
-  <Moyo_neuroSerum_combat.comps.0.useLabel>Use {0_label}</Moyo_neuroSerum_combat.comps.0.useLabel>
-  <Moyo_neuroSerum_combat.comps.4.useLabel>Use abysstech neurotrainer serum to learn skill</Moyo_neuroSerum_combat.comps.4.useLabel>
+  <Moyo_neuroSerum_combat.label>сыворотка для нейротренировки глубинных технологий (боевая)</Moyo_neuroSerum_combat.label>
+  <Moyo_neuroSerum_combat.description>Вершина глубинных технологий, решение для механики, настроенное с помощью Глубокой Синевы для ускорения получения опыта. Хотя его эффект незначителен по сравнению с современным, но он не имеет эффекта, связанного с Глубокой Синевой, несмотря на то, что в производстве использовалось огромное количество.\n\nКазалось бы, это нынешний предел возможностей медицинской Глубокой Синевы, но это шедевр биологической и механической инженерии в сочетании, достигнутый компанией маяка.</Moyo_neuroSerum_combat.description>
+  <Moyo_neuroSerum_combat.comps.0.useLabel>Применение {0_label}</Moyo_neuroSerum_combat.comps.0.useLabel>
+  <Moyo_neuroSerum_combat.comps.4.useLabel>Используйте сыворотку глубинных технологий нейротренировки для обучения навыкам</Moyo_neuroSerum_combat.comps.4.useLabel>
 
   <Moyo_neuroSerum_labor.label>abysstech neurotrainer serum(Labor)</Moyo_neuroSerum_labor.label>
   <Moyo_neuroSerum_labor.description>A pinnacle of abysstech, a solution of mechanites tuned with deepblue to accelerate experience gaining. Though its effect is minor compared to the contemporary one, but its free of deepblue-related effect despite a huge amount was used in production.\n\nSeemed to be the current limit of medicinal deepblue, this is a masterwork of biological and mechanical engineering combined that has been achived by the lighthouse.</Moyo_neuroSerum_labor.description>
@@ -30,18 +30,11 @@
   <Moyo_neuroSerum_craftsmanship.comps.0.useLabel>Use {0_label}</Moyo_neuroSerum_craftsmanship.comps.0.useLabel>
   <Moyo_neuroSerum_craftsmanship.comps.4.useLabel>Use abysstech neurotrainer serum to learn skill</Moyo_neuroSerum_craftsmanship.comps.4.useLabel>
 
-
   <!-- 벨리알 V -->
 
   <Moyo_BelialV.label>Белиал-V</Moyo_BelialV.label>
   <Moyo_BelialV.description>Смесь меканита, похожая на люциферий, который препятствует распаду меканитов за счёт Голубой Синевы. Из-за этого действие препарата непостоянно, и можно ожидать самых разнообразных укрепляющих эффектов.\n\nНазвание этого препарата происходит от количества Глубокой синевы, необходимого для его создания, и, как следует из названия, бесчисленное количество мойо было принесено в жертву, чтобы сделать только один препарат Гача. Этот фантастический и в то же время ужасный наркотик известен как шедевр картеля Мойо. * Он не пристрастился к Глубокой синеве даже при использовании.</Moyo_BelialV.description>
   <Moyo_BelialV.ingestible.ingestCommandString>{0} Ввести</Moyo_BelialV.ingestible.ingestCommandString>
   <Moyo_BelialV.ingestible.ingestReportString>{0} Вводится.</Moyo_BelialV.ingestible.ingestReportString>
-
-
-  <!--<Moyo_neuroSerum_combat.comps.3.useLabel>Use abysstech neurotrainer serum to learn skill</Moyo_neuroSerum_combat.comps.3.useLabel>-->
-  <!--<Moyo_neuroSerum_labor.comps.3.useLabel>Use abysstech neurotrainer serum to learn skill</Moyo_neuroSerum_labor.comps.3.useLabel>-->
-  <!--<Moyo_neuroSerum_housekeeping.comps.3.useLabel>Use abysstech neurotrainer serum to learn skill</Moyo_neuroSerum_housekeeping.comps.3.useLabel>-->
-  <!--<Moyo_neuroSerum_craftsmanship.comps.3.useLabel>Use abysstech neurotrainer serum to learn skill</Moyo_neuroSerum_craftsmanship.comps.3.useLabel>-->
 
 </LanguageData>
