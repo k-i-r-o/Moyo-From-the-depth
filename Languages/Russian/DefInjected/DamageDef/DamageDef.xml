@@ -8,7 +8,7 @@
   <Moyo_Cryo.deathMessage>{0}(этот)умер от обморожения.</Moyo_Cryo.deathMessage>
 
   <HexapodTentacle.label>отупел</HexapodTentacle.label>
-  <HexapodTentacle.deathMessage>{0} has been killed.</HexapodTentacle.deathMessage>
+  <HexapodTentacle.deathMessage>{0} был убит.</HexapodTentacle.deathMessage>
 
 
 </LanguageData>
