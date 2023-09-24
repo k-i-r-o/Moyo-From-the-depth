@@ -19,7 +19,7 @@
 
   <Moyo_MechanicWannabe.title>подражатель механика мойо</Moyo_MechanicWannabe.title>
   <Moyo_MechanicWannabe.titleShort>подражатель механика</Moyo_MechanicWannabe.titleShort>
-  <Moyo_MechanicWannabe.baseDesc>[PAWN_nameDef] питал пристрастие к различным машинам и приспособлениям. К счастью для [PAWN_pronoun] море было заполнено металлоломом и деталями, с которыми она могла играть.</Moyo_MechanicWannabe.baseDesc>
+  <Moyo_MechanicWannabe.baseDesc>[PAWN_nameDef] питала пристрастие к различным машинам и приспособлениям. К счастью для [PAWN_pronoun] море было заполнено металлоломом и деталями, с которыми она могла играть.</Moyo_MechanicWannabe.baseDesc>
 
 
   <!-- 몽상가 -->
@@ -157,135 +157,135 @@
 
   <!-- 공방일꾼 -->
 
-  <Moyo_FactoryWorker.title>moyo factory worker</Moyo_FactoryWorker.title>
-  <Moyo_FactoryWorker.titleShort>factory worker</Moyo_FactoryWorker.titleShort>
-  <Moyo_FactoryWorker.baseDesc>The middle levels of the lighthouse are a source of constant light and heat in the cold ocean depths. [PAWN_nameDef] worked in the factories on the middle level, producing all sorts of gear and products. [PAWN_possessive] most recent job was producing firearms.</Moyo_FactoryWorker.baseDesc>
+  <Moyo_FactoryWorker.title>фабричный рабочий мойо</Moyo_FactoryWorker.title>
+  <Moyo_FactoryWorker.titleShort>фабричный рабочий</Moyo_FactoryWorker.titleShort>
+  <Moyo_FactoryWorker.baseDesc>Средние уровни маяка являются источником постоянного света и тепла в холодных океанских глубинах. [PAWN_nameDef] работала на фабриках среднего звена, производя всевозможное снаряжение и продукты. [PAWN_possessive] последней работой было производство огнестрельного оружия.</Moyo_FactoryWorker.baseDesc>
 
 
   <!-- 메카노이드 정비공 -->
 
-  <Moyo_MechanoidMaintainer.title>moyo mechanoid maintainer</Moyo_MechanoidMaintainer.title>
-  <Moyo_MechanoidMaintainer.titleShort>mechanoid maintainer</Moyo_MechanoidMaintainer.titleShort>
-  <Moyo_MechanoidMaintainer.baseDesc>Mechanoids are the foundations of moyo cities. [PAWN_nameDef] job was the to maintain the aging mechanoids as best [PAWN_pronoun] could. The centuries old but still functioning mechanoids made [PAWN_nameDef] realize how frail the flesh was.</Moyo_MechanoidMaintainer.baseDesc>
+  <Moyo_MechanoidMaintainer.title>сопровождающая механоидов мойо</Moyo_MechanoidMaintainer.title>
+  <Moyo_MechanoidMaintainer.titleShort>сопровождающая механоидов</Moyo_MechanoidMaintainer.titleShort>
+  <Moyo_MechanoidMaintainer.baseDesc>Механоиды - это основа городов мойо. Работа [PAWN_nameDef] заключалась в том, чтобы поддерживать стареющих механоидов как можно лучше [PAWN_pronoun]. Многовековые, но все еще функционирующие механоиды заставили [PAWN_nameDef] осознать, насколько хрупкой была плоть.</Moyo_MechanoidMaintainer.baseDesc>
 
 
   <!-- 공학자 -->
 
-  <Moyo_Engineer.title>moyo engineer</Moyo_Engineer.title>
-  <Moyo_Engineer.titleShort>engineer</Moyo_Engineer.titleShort>
-  <Moyo_Engineer.baseDesc>[PAWN_nameDef] was one of the engineers in charge of R&amp;D. [PAWN_pronoun] a part of the firearms development, helping in the testing and creation of many prototypes. No one questioned what effects such a creation would have.</Moyo_Engineer.baseDesc>
+  <Moyo_Engineer.title>инженер мойо</Moyo_Engineer.title>
+  <Moyo_Engineer.titleShort>инженер</Moyo_Engineer.titleShort>
+  <Moyo_Engineer.baseDesc>[PAWN_nameDef] была одной из инженеров, отвечавших за исследования и разработки. [PAWN_pronoun] участвует в разработке огнестрельного оружия, помогая в тестировании и создании многих прототипов. Никто не задавался вопросом, какие последствия имело бы такое творение.</Moyo_Engineer.baseDesc>
 
 
   <!-- 사냥꾼 -->
 
-  <Moyo_Hunter.title>moyo hunter</Moyo_Hunter.title>
-  <Moyo_Hunter.titleShort>hunter</Moyo_Hunter.titleShort>
-  <Moyo_Hunter.baseDesc>[PAWN_nameDef] wandered the seas hunting or capturing marine creatures. [PAWN_possessive] mainly brought back meat, luxury items, or rare animals. When dangerous creatures threatened the lighthouse, [PAWN_pronoun] was drafted by the council to aid in repelling the beast.</Moyo_Hunter.baseDesc>
+  <Moyo_Hunter.title>охотница мойо</Moyo_Hunter.title>
+  <Moyo_Hunter.titleShort>охотница</Moyo_Hunter.titleShort>
+  <Moyo_Hunter.baseDesc>[PAWN_nameDef] бродила по морям, охотясь или отлавливая морских существ. [PAWN_possessive] в основном привозила мясо, предметы роскоши или редких животных. Когда опасные существа угрожали маяку, [PAWN_pronoun] была призвана советом, чтобы помочь в отражении нападения.</Moyo_Hunter.baseDesc>
 
 
   <!-- 밀수업자 -->
 
-  <Moyo_Smuggler.title>moyo smuggler</Moyo_Smuggler.title>
-  <Moyo_Smuggler.titleShort>smuggler</Moyo_Smuggler.titleShort>
-  <Moyo_Smuggler.baseDesc>The surface is full of treasures. [PAWN_nameDef] brought those treasures to the lighthouse. The council forbade all unauthorized trading with the surface, but for [PAWN_nameDef], the money brought in by the goods where more important than the law, and [PAWN_pronoun] continued to sneak out to the surface.</Moyo_Smuggler.baseDesc>
+  <Moyo_Smuggler.title>контрабандист мойо</Moyo_Smuggler.title>
+  <Moyo_Smuggler.titleShort>контрабандист</Moyo_Smuggler.titleShort>
+  <Moyo_Smuggler.baseDesc>Поверхность полна сокровищ. [PAWN_nameDef] принесла эти сокровища на маяк. Совет запретил любую несанкционированную торговлю с поверхностью, но для [PAWN_nameDef] деньги, приносимые товарами, были важнее закона, и [PAWN_pronoun] продолжала тайком выходить на поверхность.</Moyo_Smuggler.baseDesc>
 
 
   <!-- 군인 -->
 
-  <Moyo_Soldier.title>moyo soldier</Moyo_Soldier.title>
-  <Moyo_Soldier.titleShort>soldier</Moyo_Soldier.titleShort>
-  <Moyo_Soldier.baseDesc>[PAWN_nameDef] was a professional soldier, tasked with maintaining order within the lighthouse and fighting off attacking creatures. But as smugglers rose in numbers and civil unrest grew, a civil war broke out and [PAWN_pronoun] had to fight other moyos.</Moyo_Soldier.baseDesc>
+  <Moyo_Soldier.title>солдат мойо</Moyo_Soldier.title>
+  <Moyo_Soldier.titleShort>солдат</Moyo_Soldier.titleShort>
+  <Moyo_Soldier.baseDesc>[PAWN_nameDef] была профессиональным солдатом, которой было поручено поддерживать порядок на маяке и отбиваться от атакующих существ. Но по мере того, как число контрабандистов росло, а гражданские беспорядки усиливались, разразилась гражданская война, и [PAWN_pronoun] пришлось сражаться с другими мойо.</Moyo_Soldier.baseDesc>
 
 
   <!-- 심층광부 -->
 
-  <Moyo_DeepCoreMiner.title>moyo deep core miner</Moyo_DeepCoreMiner.title>
-  <Moyo_DeepCoreMiner.titleShort>deep core miner</Moyo_DeepCoreMiner.titleShort>
-  <Moyo_DeepCoreMiner.baseDesc>[PAWN_nameDef] is a miner who gathers ore from the core. Equipped with a heavy duty diving suit, deep core mining is a relatively new job that appeared as operating mechanoids became less and less feasible, and became one of the main reasons for moving between levels.</Moyo_DeepCoreMiner.baseDesc>
+  <Moyo_DeepCoreMiner.title>глубоководный добытчик мойо</Moyo_DeepCoreMiner.title>
+  <Moyo_DeepCoreMiner.titleShort>глубоководный добытчик</Moyo_DeepCoreMiner.titleShort>
+  <Moyo_DeepCoreMiner.baseDesc>[PAWN_nameDef] - шахтер, которая собирает руду из керна. Оснащенный сверхпрочным водолазным костюмом, глубоководный майнинг - относительно новая работа, которая появилась по мере того, как управлять механоидами становилось все менее и менее выполнимо, и стала одной из главных причин перемещения между уровнями.</Moyo_DeepCoreMiner.baseDesc>
 
 
   <!-- 지리학자 -->
 
-  <Moyo_Geologist.title>moyo geologist</Moyo_Geologist.title>
-  <Moyo_Geologist.titleShort>geologist</Moyo_Geologist.titleShort>
-  <Moyo_Geologist.baseDesc>[PAWN_nameDef]’s job is to survey and study the ocean floor. [PAWN_possessive] job meant spending many hours in the submarine with her team, and [PAWN_pronoun] had to get accustomed to a lot of things.</Moyo_Geologist.baseDesc>
+  <Moyo_Geologist.title>геолог мойо</Moyo_Geologist.title>
+  <Moyo_Geologist.titleShort>геолог</Moyo_Geologist.titleShort>
+  <Moyo_Geologist.baseDesc>Работа [PAWN_nameDef] заключается в обследовании и изучении океанского дна. Работа [PAWN_possessive] означала проведение многих часов на подводной лодке со своей командой, и [PAWN_pronoun] пришлось привыкать ко многому.</Moyo_Geologist.baseDesc>
 
 
   <!-- 지상 무역가 -->
 
-  <Moyo_SurfaceTrader.title>moyo surface trader</Moyo_SurfaceTrader.title>
-  <Moyo_SurfaceTrader.titleShort>surface trader</Moyo_SurfaceTrader.titleShort>
-  <Moyo_SurfaceTrader.baseDesc>Trade between the surface and the lighthouse is strictly regulated by the council and official traders like [PAWN_nameDef]. As most of the goods from the surface where considered luxury items [PAWN_pronoun] was able to reap massive profits. [PAWN_pronoun] was ruthless in suppressing smugglers that threatened her trade, and personally took care of some as well.</Moyo_SurfaceTrader.baseDesc>
+  <Moyo_SurfaceTrader.title>наземный торговец мойо</Moyo_SurfaceTrader.title>
+  <Moyo_SurfaceTrader.titleShort>наземный торговец</Moyo_SurfaceTrader.titleShort>
+  <Moyo_SurfaceTrader.baseDesc>Торговля между поверхностью и маяком строго регулируется советом и официальными торговцами, такими как [PAWN_nameDef]. Поскольку большинство товаров с поверхности считались предметами роскоши, [PAWN_pronoun] смогла получить огромную прибыль. [PAWN_pronoun] была безжалостна в подавлении контрабандистов, которые угрожали ее торговле, и лично заботилась о некоторых из них.</Moyo_SurfaceTrader.baseDesc>
 
 
   <!-- 생물학자 -->
 
-  <Moyo_Biologist.title>moyo biologist</Moyo_Biologist.title>
-  <Moyo_Biologist.titleShort>biologist</Moyo_Biologist.titleShort>
-  <Moyo_Biologist.baseDesc>[PAWN_nameDef]’s research was about the modifications that made the moyo race. This into the ‘evolution’ of the moyo allowed [PAWN_objective] and [PAWN_possessive] team to discover deepblue, a discovery that had far-reaching effects in the moyo society.</Moyo_Biologist.baseDesc>
+  <Moyo_Biologist.title>биолог мойо</Moyo_Biologist.title>
+  <Moyo_Biologist.titleShort>биолог</Moyo_Biologist.titleShort>
+  <Moyo_Biologist.baseDesc>Исследование [PAWN_nameDef] было посвящено модификациям, которые сделали расу мойо. Этот вклад в "эволюцию" мойо позволил команде [PAWN_objective] и [PAWN_possessive] открыть Глубокую Синеву, открытие, которое имело далеко идущие последствия для общества мойо.</Moyo_Biologist.baseDesc>
 
 
   <!-- 착한고아원장 -->
 
-  <Moyo_KindOrphanageMaster.title>moyo orphanage master</Moyo_KindOrphanageMaster.title>
-  <Moyo_KindOrphanageMaster.titleShort>orphanage master</Moyo_KindOrphanageMaster.titleShort>
-  <Moyo_KindOrphanageMaster.baseDesc>[PAWN_nameDef] took care of orphans separated from their parents. [PAWN_pronoun] worked hard to reunite the children with their parents, or teach them so they could be proud members of society. No one knows why [PAWN_pronoun] started this job, but assume it has something to do with [PAWN_possessive] personal experiences.</Moyo_KindOrphanageMaster.baseDesc>
+  <Moyo_KindOrphanageMaster.title>Добрая хозяйка сиротского приюта мойо</Moyo_KindOrphanageMaster.title>
+  <Moyo_KindOrphanageMaster.titleShort>хозяйка сиротского приюта</Moyo_KindOrphanageMaster.titleShort>
+  <Moyo_KindOrphanageMaster.baseDesc>[PAWN_nameDef] заботилась о сиротах, разлученных со своими родителями. [PAWN_pronoun] упорно трудилась, чтобы воссоединить детей с их родителями или научить их, чтобы они могли быть гордыми членами общества. Никто не знает, почему [PAWN_pronoun] взялась за эту работу, но предполагаю, что это как-то связано с личным опытом [PAWN_possessive].</Moyo_KindOrphanageMaster.baseDesc>
 
 
   <!-- 나쁜고아원장 -->
 
-  <Moyo_EvilOrphanageMaster.title>moyo orphanage master</Moyo_EvilOrphanageMaster.title>
-  <Moyo_EvilOrphanageMaster.titleShort>orphanage master</Moyo_EvilOrphanageMaster.titleShort>
-  <Moyo_EvilOrphanageMaster.baseDesc>[PAWN_nameDef] took care of orphans separated from their parents. [PAWN_pronoun] taught the children that the outside was dangerous, and abandoned children would be hunted. After all, the children where precious resources both for the lighthouse and for [PAWN_possessive].</Moyo_EvilOrphanageMaster.baseDesc>
+  <Moyo_EvilOrphanageMaster.title>Злая хозяйка сиротского приюта мойо</Moyo_EvilOrphanageMaster.title>
+  <Moyo_EvilOrphanageMaster.titleShort>Злая хозяйка сиротского</Moyo_EvilOrphanageMaster.titleShort>
+  <Moyo_EvilOrphanageMaster.baseDesc>[PAWN_nameDef] заботился о сиротах, разлученных со своими родителями. [PAWN_pronoun] учила детей, что снаружи опасно, и на брошенных детей будут охотиться. В конце концов, у детей есть драгоценные ресурсы как для маяка, так и для [PAWN_possessive].</Moyo_EvilOrphanageMaster.baseDesc>
 
 
   <!-- 하인 -->
 
-  <Moyo_Servant.title>moyo servant</Moyo_Servant.title>
-  <Moyo_Servant.titleShort>servant</Moyo_Servant.titleShort>
-  <Moyo_Servant.baseDesc>[PAWN_nameDef] was a servant for rich moyos. [PAWN_pronoun] took care of everything from cleaning to cooking, to any special requests [PAWN_possessive] masters might have. Unable to deal with the ever more demanding requests, [PAWN_pronoun] disappeared one day, leaving only a dead body behind.</Moyo_Servant.baseDesc>
+  <Moyo_Servant.title>служительница мойо</Moyo_Servant.title>
+  <Moyo_Servant.titleShort>служительница</Moyo_Servant.titleShort>
+  <Moyo_Servant.baseDesc>[PAWN_nameDef] была слугой у богатой мойо. [PAWN_pronoun] заботилась обо всем, от уборки до приготовления пищи, и о любых особых пожеланиях, которые могли возникнуть у хозяев [PAWN_possessive]. Не в силах справиться со все более требовательными запросами, [PAWN_pronoun] однажды исчезла, оставив после себя только мертвое тело.</Moyo_Servant.baseDesc>
 
 
   <!-- 칵테일제조가 -->
 
-  <Moyo_CocktailMixer.title>moyo cocktail mixer</Moyo_CocktailMixer.title>
-  <Moyo_CocktailMixer.titleShort>cocktail mixer</Moyo_CocktailMixer.titleShort>
-  <Moyo_CocktailMixer.baseDesc>[PAWN_nameDef] experimented mixing surface drugs with deepblue to make new substances. Usually made with psychite, [PAWN_possessive] chemical cocktails where a big hit, both in the lighthouse and on the surface.</Moyo_CocktailMixer.baseDesc>
+  <Moyo_CocktailMixer.title>барвумен мойо</Moyo_CocktailMixer.title>
+  <Moyo_CocktailMixer.titleShort>барвумен</Moyo_CocktailMixer.titleShort>
+  <Moyo_CocktailMixer.baseDesc>[PAWN_nameDef] экспериментировала, смешивая поверхностные препараты с Глубокой Синевой, чтобы получить новые вещества. Обычно готовится с психитом, химическими коктейлями [PAWN_possessive], которые пользуются большим успехом, как в "маяке", так и на поверхности.</Moyo_CocktailMixer.baseDesc>
 
 
   <!-- 수경재배 농부 -->
 
-  <Moyo_HydroponicsFarmer.title>moyo hydroponics farmer</Moyo_HydroponicsFarmer.title>
-  <Moyo_HydroponicsFarmer.titleShort>hydroponics farmer</Moyo_HydroponicsFarmer.titleShort>
-  <Moyo_HydroponicsFarmer.baseDesc>[PAWN_nameDef] grew surface crops in a hydroponics system. [PAWN_pronoun] was unable to sell [PAWN_possessive] produce for the full price, and occasionally faced hardships from the moyos who traded in surface goods. In the light of things, [PAWN_nameDef] set [PAWN_possessive] sights on obtaining a farm on the surface.</Moyo_HydroponicsFarmer.baseDesc>
+  <Moyo_HydroponicsFarmer.title>фермер по гидропонике мойо</Moyo_HydroponicsFarmer.title>
+  <Moyo_HydroponicsFarmer.titleShort>фермер по гидропонике</Moyo_HydroponicsFarmer.titleShort>
+  <Moyo_HydroponicsFarmer.baseDesc>[PAWN_nameDef] выращивала поверхностные культуры на системе гидропоники. [PAWN_pronoun] не смогла продать продукцию [PAWN_possessive] по полной цене и иногда сталкивалась с трудностями со стороны мойо, которые торговали поверхностными товарами. В свете происходящего, [PAWN_nameDef] нацелила [PAWN_possessive] на получение фермы на поверхности.</Moyo_HydroponicsFarmer.baseDesc>
 
 
   <!-- 지상 예술가 -->
 
-  <Moyo_SurfaceArtist.title>moyo surface artist</Moyo_SurfaceArtist.title>
-  <Moyo_SurfaceArtist.titleShort>surface artist</Moyo_SurfaceArtist.titleShort>
-  <Moyo_SurfaceArtist.baseDesc>[PAWN_nameDef] made artwork based on scenery from the surface. [PAWN_pronoun] never saw the surface [PAWN_objective]self, nor did [PAWN_pronoun] have much material on it. The artwork of the surface [PAWN_pronoun] created were based almost solely on her imagination and quite fantastical. [PAWN_pronoun] never faced much problems, as [PAWN_possessive] had never seen the surface either.</Moyo_SurfaceArtist.baseDesc>
+  <Moyo_SurfaceArtist.title>художница поверхности мойо</Moyo_SurfaceArtist.title>
+  <Moyo_SurfaceArtist.titleShort>художница поверхности</Moyo_SurfaceArtist.titleShort>
+  <Moyo_SurfaceArtist.baseDesc>[PAWN_nameDef] создвала художественное оформление, основанное на пейзажах с поверхности. [PAWN_pronoun] никогда не видела поверхностного [PAWN_objective]я, и у [PAWN_pronoun] не было много материала о нем. Иллюстрации, созданные [PAWN_pronoun], были основаны почти исключительно на ее воображении и довольно фантастичны. [PAWN_pronoun] никогда не сталкивалась с особыми проблемами, поскольку [PAWN_possessive] тоже никогда не видели поверхности.</Moyo_SurfaceArtist.baseDesc>
 
 
   <!-- 세이렌 -->
 
-  <Moyo_Siren.title>moyo Siren</Moyo_Siren.title>
-  <Moyo_Siren.titleShort>Siren</Moyo_Siren.titleShort>
-  <Moyo_Siren.baseDesc>[PAWN_nameDef] was known throughout the entire lower level. With her beautiful looks and voice, [PAWN_nameDef] made [PAWN_possessive] way through the lighthouse’s high society. The moyo gave [PAWN_nameDef] the name Siren in reverence to [PAWN_possessive] beauty.</Moyo_Siren.baseDesc>
+  <Moyo_Siren.title>Сирена мойо</Moyo_Siren.title>
+  <Moyo_Siren.titleShort>Сирена</Moyo_Siren.titleShort>
+  <Moyo_Siren.baseDesc>[PAWN_nameDef] была известна на всем нижнем уровне. Благодаря своей красивой внешности и голосу, [PAWN_nameDef] проложила [PAWN_possessive] путь в высшее общество маяка. Мойо дала [PAWN_nameDef] имя Сирена в знак уважения к красоте [PAWN_possessive].</Moyo_Siren.baseDesc>
 
 
   <!-- 청부업자 -->
 
-  <Moyo_Hitman.title>moyo hitman</Moyo_Hitman.title>
-  <Moyo_Hitman.titleShort>hitman</Moyo_Hitman.titleShort>
-  <Moyo_Hitman.baseDesc>[PAWN_nameDef] is a gun for hire. Someone is bound to need some dirt work done for them, and that is [PAWN_nameDef]’s specialty. What happened between the client and target doesn’t matter. What matters is that [PAWN_pronoun] gets payed.</Moyo_Hitman.baseDesc>
+  <Moyo_Hitman.title>наемная убийца мойо</Moyo_Hitman.title>
+  <Moyo_Hitman.titleShort>наемная убийца</Moyo_Hitman.titleShort>
+  <Moyo_Hitman.baseDesc>[PAWN_nameDef] - это оружие по найму. Кому-то обязательно понадобится выполнить за него какую-нибудь грязную работу, и это специальность [PAWN_nameDef]. То, что произошло между клиентом и целью, не имеет значения. Важно то, что [PAWN_pronoun] получает оплату.</Moyo_Hitman.baseDesc>
 
 
   <!-- 근위대 -->
 
-  <Moyo_GuardianStory.title>moyo royalGuard</Moyo_GuardianStory.title>
-  <Moyo_GuardianStory.titleShort>royalGuard</Moyo_GuardianStory.titleShort>
-  <Moyo_GuardianStory.baseDesc>[PAWN_nameDef] is a member of the royal guard, trained to be absolute loyalty towards the three elders. As to why or how a member of the royal guard has ended up here, only [PAWN_nameDef] and the elders will know.</Moyo_GuardianStory.baseDesc>
+  <Moyo_GuardianStory.title>Королевская гвардия мойо</Moyo_GuardianStory.title>
+  <Moyo_GuardianStory.titleShort>Королевская гвардия</Moyo_GuardianStory.titleShort>
+  <Moyo_GuardianStory.baseDesc>[PAWN_nameDef] - член королевской гвардии, обученная абсолютной лояльности по отношению к трем старейшинам. О том, почему или как член королевской гвардии оказалась здесь, будут знать только [PAWN_nameDef] и старейшины.</Moyo_GuardianStory.baseDesc>
 
 
 </LanguageData>
