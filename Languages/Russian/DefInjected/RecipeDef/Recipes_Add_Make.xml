@@ -6,9 +6,9 @@
 
   <!-- Recipe Users: Moyo_FabricationBench -->
 
-  <Make_Moyo_BelialV.label>make Belial-V</Make_Moyo_BelialV.label>
-  <Make_Moyo_BelialV.description>Make Belial-V.</Make_Moyo_BelialV.description>
-  <Make_Moyo_BelialV.jobString>Making Belial-V.</Make_Moyo_BelialV.jobString>
+  <Make_Moyo_BelialV.label>изготовить Белиал-V</Make_Moyo_BelialV.label>
+  <Make_Moyo_BelialV.description>Изготовить Белиал-V.</Make_Moyo_BelialV.description>
+  <Make_Moyo_BelialV.jobString>Изготовление Белиала-V.</Make_Moyo_BelialV.jobString>
 
 
 </LanguageData>
